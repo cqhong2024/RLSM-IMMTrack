@@ -1,0 +1,14 @@
+{
+  "seed": 20260817,
+  "disable_camera": false,
+  "disable_redetection": false,
+  "fixed_measurement_noise": false,
+  "short_capacity": 6,
+  "long_capacity": 4,
+  "memory_supports": 3,
+  "long_weight": 0.7,
+  "disagreement_penalty": 0.25,
+  "entry_streak": 3,
+  "entry_evidence": 0.045,
+  "exit_patience": 2
+}

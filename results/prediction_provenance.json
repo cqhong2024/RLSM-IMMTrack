@@ -1,0 +1,2678 @@
+[
+  {
+    "dataset": "UAV2UAV",
+    "method": "SUTrack-B224",
+    "source_prediction_collection": "risk_limited_shadow_memory_uav2uav2_all49/sutrack",
+    "sequences": [
+      {
+        "sequence": "test1_DJI_0081_1",
+        "prediction_sha256": "50cd65b96eacb1149577d8684fdada5537194a5af4cadafb77001fd31524dd0d",
+        "gt_sha256": "6230263df713f86ecbd008320da1d326a3dacf819bd654e2f9303f836ea7e11b",
+        "frames": 217
+      },
+      {
+        "sequence": "test1_DJI_0081_2",
+        "prediction_sha256": "572c06da835ce14636e77fd1fc15bc8be80789db68d85b2f29d574fa7b5157ac",
+        "gt_sha256": "1ca5c479f05eed7dab7173f82be7779bc493f775e622940deff62f7e42a655e4",
+        "frames": 729
+      },
+      {
+        "sequence": "test1_DJI_0081_3",
+        "prediction_sha256": "22d5a629e8880082f9de1996b7959a49b9f173e152ee99d234c1d79bdd8ec6f6",
+        "gt_sha256": "a58d2cbbdcc0a1877f133eaab15fc1eee7b03bfb3231b72e163cb4b31e615928",
+        "frames": 129
+      },
+      {
+        "sequence": "test1_DJI_0081_4",
+        "prediction_sha256": "27a13829b4bebf18a0006524bc69b850370d4f209333f864dd889a507fca2993",
+        "gt_sha256": "cb093db3ffe866c27ccab03993a796ee08b17c2bd6eeada46126b4d9721f627c",
+        "frames": 314
+      },
+      {
+        "sequence": "test3_DJI_0087_1",
+        "prediction_sha256": "1fdbe8a7e59387a37722452b085372dcb185d553dacfcbcaa92fa75ee7140a27",
+        "gt_sha256": "8d19ee4eb8d5ffd349815acebfb004d327d7f81f1735361855ad62c58c9b60f6",
+        "frames": 400
+      },
+      {
+        "sequence": "test3_DJI_0087_2",
+        "prediction_sha256": "418297d02b891f2a5d87ef4897163eae564b1d1bc36ae23bb8034fe0508c49b9",
+        "gt_sha256": "4ed3afd70d33b3589c1d78a1a2ef15f2fa3ac97a8d3067637394f1b51ee93517",
+        "frames": 319
+      },
+      {
+        "sequence": "test3_DJI_0087_3",
+        "prediction_sha256": "d4b0529d40753898e7cd8ebfd425de21a6a117db5c9b7bf7e1d58f650505944a",
+        "gt_sha256": "2a82e2e7946b2cbde97cd7003494306d0ef5be02ea50d03d60a60c53553fb2c0",
+        "frames": 165
+      },
+      {
+        "sequence": "test3_DJI_0087_4",
+        "prediction_sha256": "cc3fc92be1a2fbc0868c283016dc7ef4ed28c36e4f5717fa7bc6918c07b86a61",
+        "gt_sha256": "373b7ca95f829ebdb89dd8232e59d77748be86f093d510e89c34abc14287acf9",
+        "frames": 200
+      },
+      {
+        "sequence": "test3_DJI_0087_5",
+        "prediction_sha256": "98304a5768c0b4338b278b35149f99526b8fa03e808fc1a7d16346fad07ec7c8",
+        "gt_sha256": "ba3cd8a3f02e00c6e69eba2570ae97a8eb4f2552fd0cf9c6914778467949a0b7",
+        "frames": 302
+      },
+      {
+        "sequence": "test3_DJI_0087_6",
+        "prediction_sha256": "198e90f26cff65364dc99ae4a05701f2c892173e3cbd19fcf14c1b91f3eff028",
+        "gt_sha256": "318ff5dd14f57218d70966388ca22ee29cf76532f6e5f5376598b597e9d90982",
+        "frames": 516
+      },
+      {
+        "sequence": "test3_DJI_0087_7",
+        "prediction_sha256": "544d64259f7b9c99175239e8d422898b535c9a8ed7567b3354790eeeda1cef56",
+        "gt_sha256": "4f5fea2c71c613779f1c7074f8e560880d884ad322ec682e0f93e5e0f652deb9",
+        "frames": 159
+      },
+      {
+        "sequence": "test3_DJI_0087_8",
+        "prediction_sha256": "d3d077564e7c136c45509847f1919024572ffad95dd138c1555b071db528a1a8",
+        "gt_sha256": "5956beb3a00dcaaa725a37693fb31f096bf94209cacfc768017017266b12e5ed",
+        "frames": 211
+      },
+      {
+        "sequence": "test4_DJI_0101_1",
+        "prediction_sha256": "c19dd85aafa7de79f9f1b5bfb7b0b6c55dd15171f5bb288fa51f42f7e37f15e9",
+        "gt_sha256": "1b03afcae953d5fbb0fe4138a51817b9f633e3ab7e459c8c97ebfe657809add9",
+        "frames": 986
+      },
+      {
+        "sequence": "test4_DJI_0101_2",
+        "prediction_sha256": "1332250de2ffa2b62a374525014ab8863e9ab3c3164179b58792be76dcda8fb2",
+        "gt_sha256": "14d691222db78e1caafa79c0194ea37eadbd477428775a25a23efc818a92d199",
+        "frames": 556
+      },
+      {
+        "sequence": "test4_DJI_0101_3",
+        "prediction_sha256": "e9fcef4818404d1754829953cd8c8edbe1d59684f6fe2e7f099e67b0e4b5a5d3",
+        "gt_sha256": "b737d5c743cd336bf5469deba3dc4588c841494ac3fd36ef0a12e305ef154ec5",
+        "frames": 248
+      },
+      {
+        "sequence": "test4_DJI_0101_4",
+        "prediction_sha256": "df98f9cdf67842e49d2ececfab18a46cf06066c6364411e806e649b41b2c5757",
+        "gt_sha256": "3a707a35332904a72829e1da8bd5d52c129468cdd96a633e8b88060b12481fbc",
+        "frames": 836
+      },
+      {
+        "sequence": "test5_DJI_0102_1",
+        "prediction_sha256": "2877741e996a4043dab4dcc8852153900e714cd875793f6bd4103a6f03041986",
+        "gt_sha256": "c07d02770006ef2eb6e7bba7fdde4f235a56dbeb41e978f4572abaa4948ceb18",
+        "frames": 60
+      },
+      {
+        "sequence": "test5_DJI_0102_2",
+        "prediction_sha256": "42780b143b33a9fe640d3366759211aba53c86646650d98ef4e24a54c16b6e59",
+        "gt_sha256": "27bbdcdfd84539c7d2cba9e5fb0db8c57b85c35181c0e046653c64f3994e2691",
+        "frames": 306
+      },
+      {
+        "sequence": "test5_DJI_0102_3",
+        "prediction_sha256": "aade26dbfa1d0f30e8e2d6a7b16423a1b254295f1c2f71030ea9e49a32b58bf6",
+        "gt_sha256": "48590cb00a6d0b55665436591993e3cf9bd6812594d15b4c8601672360fe10f3",
+        "frames": 217
+      },
+      {
+        "sequence": "test5_DJI_0102_4",
+        "prediction_sha256": "c3c44a37d923b405600a442186026a1594cb1569edac822e7cfdff46fe1fb8e9",
+        "gt_sha256": "4238a2f98229cdf27043307b4408e2f5bbb53007eaf10038598c6ee22bab3ac8",
+        "frames": 676
+      },
+      {
+        "sequence": "test6_DJI_0103_1",
+        "prediction_sha256": "a8ebf86f76bc5687b1062f8ee1da6e45ab533897b3e8e1b1b8e51e7806ff821f",
+        "gt_sha256": "d02046be2657b215188de4a513e2ca219a452cc345d65ae6341677153548dbb6",
+        "frames": 1544
+      },
+      {
+        "sequence": "test6_DJI_0103_2",
+        "prediction_sha256": "b4461e069327335a7c838a908f5b998a220389242710c5c817722e80300f0bc9",
+        "gt_sha256": "abf51756ab27e224013ed14a121ea86f6622c7b121ac5275c02fdc2163a16ed3",
+        "frames": 451
+      },
+      {
+        "sequence": "test6_DJI_0103_3",
+        "prediction_sha256": "e74179c5f2d4e040d89a69d022a40a681ec7353fa8ef3fd394b02cb8d091c1fe",
+        "gt_sha256": "d7a626c07d3be69cff86226ac6b7a8200bdcf77238d9a4739ae93c43e69691e8",
+        "frames": 103
+      },
+      {
+        "sequence": "test6_DJI_0103_4",
+        "prediction_sha256": "ddf0a1b8ba224b5eaff27addc05fddeeefe53d6f3eca06a1e97860b6192387e4",
+        "gt_sha256": "bcacac0e1f7fab4cc55952e2beea1c048f5b1bb9fde6f630c00118e2428b7afb",
+        "frames": 1566
+      },
+      {
+        "sequence": "test6_DJI_0103_5",
+        "prediction_sha256": "eb68e1352d8b66bcb2d3ae5769b27b748cda07911ee31d1ef7f0f6662cf70165",
+        "gt_sha256": "9a024cda5fa8640a93f7f5140ecd7c373143c6a3ef154b4c3d026836916b5407",
+        "frames": 1051
+      },
+      {
+        "sequence": "test7_DJI_0106_1",
+        "prediction_sha256": "85abcca299e0559d1daf35475e55f3f535ab6166a934232fa1873b6a87d2d61f",
+        "gt_sha256": "5e17aba399dd7500656b6e4420867d59dfdf12348924a088f9a1a96e5fdeaf56",
+        "frames": 768
+      },
+      {
+        "sequence": "test7_DJI_0106_2",
+        "prediction_sha256": "b44eb9481fb7d82c249dd6a134d7daf336fa1ef3a71df849e74ffbb6fd91dc7d",
+        "gt_sha256": "534445014d91c36e5213f8a269e73a3dfcf0ea854858b0a486532b5627660926",
+        "frames": 243
+      },
+      {
+        "sequence": "test7_DJI_0106_3",
+        "prediction_sha256": "8ca1c9911e8d712528e380da357078fbaa4c08e60308320581e4806efa933080",
+        "gt_sha256": "bad9dbc52cda8b63b853cd37e044831c1799ef58a7b0989a05c69aa22f9d9143",
+        "frames": 446
+      },
+      {
+        "sequence": "test8_DJI_0107_1",
+        "prediction_sha256": "e2616ba24120cab7752373170db09103454d2e5cc7cc9b17045ea45bd924234e",
+        "gt_sha256": "6d85e3abdff7ba7654be0e538ccc07e937dc8bac3052be45d40b13032e615bea",
+        "frames": 1683
+      },
+      {
+        "sequence": "test8_DJI_0107_2",
+        "prediction_sha256": "8256f5203e226f120e908e210d994256b5a78e7f07f4d1a878033f8cda1c8fb7",
+        "gt_sha256": "13bc5e3c91f2d46f7592b0658128b4cfcdbc23f9c09f7372dccc5ddc9b79e811",
+        "frames": 251
+      },
+      {
+        "sequence": "test8_DJI_0107_3",
+        "prediction_sha256": "251c31d1bbdf9b7298b0794c233aaef50a8d7836ff2ec98ac05015cf3741cfa2",
+        "gt_sha256": "902ce0f6f38b2dd304e2be5dc8754cae10803e00d6db58aec99240fb977802b7",
+        "frames": 459
+      },
+      {
+        "sequence": "test9_DJI_0192_1",
+        "prediction_sha256": "1d44d2de77f2f9f01d52e799919f1d3a0467ba406f34ea8e20ad06509fb120f4",
+        "gt_sha256": "35e1cb09fb2481348fbeb6261cd5150d75c403123e83f1ac58ab23baf63d866e",
+        "frames": 171
+      },
+      {
+        "sequence": "test9_DJI_0192_2",
+        "prediction_sha256": "3f8eca16d66c6cc6675de9e3107bf9a8195ce049d14417409b54b7bf082cdf3c",
+        "gt_sha256": "025053bf7c636713a7cdd800c81fa8b44e4f4a78b2fbb3c28f131ae6d94bd8c2",
+        "frames": 52
+      },
+      {
+        "sequence": "test9_DJI_0192_3",
+        "prediction_sha256": "3147533dfe897cf4290efcc9cacbbcb30ac0443bc31c9c0ac943f9d28928c2dc",
+        "gt_sha256": "ed3bf9b9667e89d4e4d9521a737c82770ab184a70a33ff8bd6a2e377370c848a",
+        "frames": 1001
+      },
+      {
+        "sequence": "test9_DJI_0192_4",
+        "prediction_sha256": "9be695d5b322b3e09803947a89871c0eedbb8239e7d239b234fa0116f4013f38",
+        "gt_sha256": "b259b57c8a825068b3a1e9afe1b52f23965d4aabccf8c5b407ad24a5ba7987f0",
+        "frames": 4521
+      },
+      {
+        "sequence": "test9_DJI_0192_5",
+        "prediction_sha256": "08034f1e338edfa2b12dfe1efe13e9537995279697eb68cbab4c3acca95d3387",
+        "gt_sha256": "3accd717b1e532540b3097bfa5398d21d61fd1c9b0c185d5d412e76e185f419e",
+        "frames": 1669
+      },
+      {
+        "sequence": "test10_jl_hbd_1",
+        "prediction_sha256": "c2cfaa0f48619a4e1bb5e0b0af3acba55e2ac44336fec18169ce68b5680ccf75",
+        "gt_sha256": "5012f175926183c28e9ada2398fbd800d5b59ef09d4a2c0ba359e4083f6267bf",
+        "frames": 389
+      },
+      {
+        "sequence": "test10_jl_hbd_2",
+        "prediction_sha256": "e752ac7c824a4b176554ef121327360ce4b557a46c387759785488dec6a56560",
+        "gt_sha256": "216b5dd1151740c41540224bec62a2776cf7d1c0bbcc3eb97a5eafac14342d17",
+        "frames": 137
+      },
+      {
+        "sequence": "test10_jl_hbd_3",
+        "prediction_sha256": "9d50f1ba5f219bcd7622f8653cb77737b6adf2859013b49720f10920609f440a",
+        "gt_sha256": "c8109ac8e92441a65775dccfe541879ebdf427b19e42e5ba3a4b5a297c98c57f",
+        "frames": 742
+      },
+      {
+        "sequence": "test10_jl_hbd_4",
+        "prediction_sha256": "79a70570bf21a2dee04595a0b7ad1940ac70744df70a99b137ccb2b938c68ea1",
+        "gt_sha256": "6ad5bf79829cf13bd7854e3a9838070949d5f86cdb058b7ff9e64edda28e3c22",
+        "frames": 287
+      },
+      {
+        "sequence": "test10_jl_hbd_5",
+        "prediction_sha256": "bb3b015e514049a939fe24f9882a0318e78542633ba3456d55f1462a9af0f753",
+        "gt_sha256": "ac43ee626c22d01da1255e25def3b6232498a6ef126327741d9a1529da7bfb48",
+        "frames": 309
+      },
+      {
+        "sequence": "test10_jl_hbd_6",
+        "prediction_sha256": "c39d436b86ee932b61cc1f15cbdfb6d5208737e3140b972bec0832f903ef70e0",
+        "gt_sha256": "6e79e593e1ea65de78f4305f1ca1e571c2c655a5b33181c7cf8666ea165ffea1",
+        "frames": 184
+      },
+      {
+        "sequence": "test10_jl_hbd_7",
+        "prediction_sha256": "af13857c16cd7bbe61b760b2fa8cf6b603f35b1d7bc165bcdc48f54e1a715815",
+        "gt_sha256": "359808c6c81955586af9331e2182e0fb41f4ab8e670d8245d2cce38747b9fdd5",
+        "frames": 138
+      },
+      {
+        "sequence": "test10_jl_hbd_8",
+        "prediction_sha256": "06c1322aab169232463c377e06e9efbcf66f88df808f8b61fe7267b678c620e6",
+        "gt_sha256": "2cab18be6882e114fc62f094ccf06f4b8ceb4f4f658dbcd355d1477e1897e927",
+        "frames": 123
+      },
+      {
+        "sequence": "test10_jl_hbd_9",
+        "prediction_sha256": "aa2e632c2b35a5b9aabd4eb5644483b227f15e5efe6912dbf59af768f5dda80c",
+        "gt_sha256": "a7fb2801e6452d4f9cc32fb8e0289ca19e4e5dfbb99314a9e0c545754816a41c",
+        "frames": 341
+      },
+      {
+        "sequence": "test11_dj_1",
+        "prediction_sha256": "ac7d5dd71432d5c3a0dbe2cea3b833e36878491e49d85a899ca62d7a8bfa4506",
+        "gt_sha256": "785aa95714029e9d0ca899e1302e6a7e3feaafb857bbe49ab55017673d2f7e39",
+        "frames": 260
+      },
+      {
+        "sequence": "test11_dj_2",
+        "prediction_sha256": "7cff996a18dcb9070a2eb795e30711f3c4edba81416a47b7b447adc2fbafe221",
+        "gt_sha256": "8f0f9904f8cde5a5ed6ac56e300705d052b3939d903b1bb9bc1ba3c061cd62c7",
+        "frames": 625
+      },
+      {
+        "sequence": "test11_dj_3",
+        "prediction_sha256": "4751c9a75cb1c9be67c8639643c5687de92bea16d123b378bb1902a0b24ad522",
+        "gt_sha256": "0b14415ab7b3985c412050ef1fafad69e4d4586169559f5357b05135805e4bd4",
+        "frames": 215
+      },
+      {
+        "sequence": "test11_dj_4",
+        "prediction_sha256": "8fa65153d38fa1cce4f4cb7f458c443555b7d0b5b84537932e02560bbd6cd275",
+        "gt_sha256": "f53ec1d3e56fb6ff56490604258bae812fc8bbfeeb939462e571cc2497e27fdf",
+        "frames": 564
+      }
+    ]
+  },
+  {
+    "dataset": "UAV2UAV",
+    "method": "SafeCL-IMMTrack",
+    "source_prediction_collection": "risk_limited_shadow_memory_uav2uav2_all49/safecl",
+    "sequences": [
+      {
+        "sequence": "test1_DJI_0081_1",
+        "prediction_sha256": "0a2d5829c792075ca859917d6c15cdb236923be7acd3f8ddb6af9d782dd52713",
+        "gt_sha256": "6230263df713f86ecbd008320da1d326a3dacf819bd654e2f9303f836ea7e11b",
+        "frames": 217
+      },
+      {
+        "sequence": "test1_DJI_0081_2",
+        "prediction_sha256": "ef922066c8a050e0286a61060230c843d7f27ba005d70baba9ac54c9c12972fc",
+        "gt_sha256": "1ca5c479f05eed7dab7173f82be7779bc493f775e622940deff62f7e42a655e4",
+        "frames": 729
+      },
+      {
+        "sequence": "test1_DJI_0081_3",
+        "prediction_sha256": "a336678661e528486d417a71c2e6f85d0257ec63c338b608091dd30ce03d3640",
+        "gt_sha256": "a58d2cbbdcc0a1877f133eaab15fc1eee7b03bfb3231b72e163cb4b31e615928",
+        "frames": 129
+      },
+      {
+        "sequence": "test1_DJI_0081_4",
+        "prediction_sha256": "032c13db8792eec15e51bc5e393c293baf98ba7c2752806dd8891958369f7781",
+        "gt_sha256": "cb093db3ffe866c27ccab03993a796ee08b17c2bd6eeada46126b4d9721f627c",
+        "frames": 314
+      },
+      {
+        "sequence": "test3_DJI_0087_1",
+        "prediction_sha256": "442cf2cde95672df36d528f224e45e72868c4f9fca9f180cbffbde52c3f0bfb5",
+        "gt_sha256": "8d19ee4eb8d5ffd349815acebfb004d327d7f81f1735361855ad62c58c9b60f6",
+        "frames": 400
+      },
+      {
+        "sequence": "test3_DJI_0087_2",
+        "prediction_sha256": "98c0ca3e9b1a02cf76b89b260813c9a41d4743a72f1af5c917d1b22639e48ba7",
+        "gt_sha256": "4ed3afd70d33b3589c1d78a1a2ef15f2fa3ac97a8d3067637394f1b51ee93517",
+        "frames": 319
+      },
+      {
+        "sequence": "test3_DJI_0087_3",
+        "prediction_sha256": "0ed97a16994ee670203064b06da44f12b106573aea8867322607e6e2c2fd5405",
+        "gt_sha256": "2a82e2e7946b2cbde97cd7003494306d0ef5be02ea50d03d60a60c53553fb2c0",
+        "frames": 165
+      },
+      {
+        "sequence": "test3_DJI_0087_4",
+        "prediction_sha256": "e3dfbd0aae7b3c4e0209cd784888caa3dbb5535dc68104408f9c1c4e57e4f5db",
+        "gt_sha256": "373b7ca95f829ebdb89dd8232e59d77748be86f093d510e89c34abc14287acf9",
+        "frames": 200
+      },
+      {
+        "sequence": "test3_DJI_0087_5",
+        "prediction_sha256": "aa8afead74ddc080422d96181a745169b5dbba5b7a6007bb43685edd3aa2f208",
+        "gt_sha256": "ba3cd8a3f02e00c6e69eba2570ae97a8eb4f2552fd0cf9c6914778467949a0b7",
+        "frames": 302
+      },
+      {
+        "sequence": "test3_DJI_0087_6",
+        "prediction_sha256": "ab0db1ccda297bfa900d32121c91c1829cf0956f1e3be8889439ac6d3b673d89",
+        "gt_sha256": "318ff5dd14f57218d70966388ca22ee29cf76532f6e5f5376598b597e9d90982",
+        "frames": 516
+      },
+      {
+        "sequence": "test3_DJI_0087_7",
+        "prediction_sha256": "c5e7592cb409b538d476f430ac7958148a5034a9da29bc336484b2b1faa74608",
+        "gt_sha256": "4f5fea2c71c613779f1c7074f8e560880d884ad322ec682e0f93e5e0f652deb9",
+        "frames": 159
+      },
+      {
+        "sequence": "test3_DJI_0087_8",
+        "prediction_sha256": "12fdab9cdcd634fe438100fbdfb5aca5e3d82d348239a05dd25a34873245130d",
+        "gt_sha256": "5956beb3a00dcaaa725a37693fb31f096bf94209cacfc768017017266b12e5ed",
+        "frames": 211
+      },
+      {
+        "sequence": "test4_DJI_0101_1",
+        "prediction_sha256": "0c4528f6409d890fa10a32d3737adf4ee6b2bf2ef9345da5364747e873b6dbff",
+        "gt_sha256": "1b03afcae953d5fbb0fe4138a51817b9f633e3ab7e459c8c97ebfe657809add9",
+        "frames": 986
+      },
+      {
+        "sequence": "test4_DJI_0101_2",
+        "prediction_sha256": "c73c95adf5452bd674955a92b4325c5afaacdffb49968e8cd71572f24563da18",
+        "gt_sha256": "14d691222db78e1caafa79c0194ea37eadbd477428775a25a23efc818a92d199",
+        "frames": 556
+      },
+      {
+        "sequence": "test4_DJI_0101_3",
+        "prediction_sha256": "e345df01cb2117e7f84580d564ec58107367a5d8b98d6cfe8c051fef11619eef",
+        "gt_sha256": "b737d5c743cd336bf5469deba3dc4588c841494ac3fd36ef0a12e305ef154ec5",
+        "frames": 248
+      },
+      {
+        "sequence": "test4_DJI_0101_4",
+        "prediction_sha256": "0b70b5e2962e619c79268c70d2588ceda4417a625cb6cf67d0a592b00af6a3a8",
+        "gt_sha256": "3a707a35332904a72829e1da8bd5d52c129468cdd96a633e8b88060b12481fbc",
+        "frames": 836
+      },
+      {
+        "sequence": "test5_DJI_0102_1",
+        "prediction_sha256": "3cd49a6f68806470a3ca5a8e1074316faf3a198d1916477ac56d1384a50f615a",
+        "gt_sha256": "c07d02770006ef2eb6e7bba7fdde4f235a56dbeb41e978f4572abaa4948ceb18",
+        "frames": 60
+      },
+      {
+        "sequence": "test5_DJI_0102_2",
+        "prediction_sha256": "0f40967336795d6948f6b93ef286edb8dcc47f7b56596383c2571c8a139efb09",
+        "gt_sha256": "27bbdcdfd84539c7d2cba9e5fb0db8c57b85c35181c0e046653c64f3994e2691",
+        "frames": 306
+      },
+      {
+        "sequence": "test5_DJI_0102_3",
+        "prediction_sha256": "78a56dc6f85190fa6dbe7e4cee29202974cc77d3ce69a84f42ac5d9ba87da373",
+        "gt_sha256": "48590cb00a6d0b55665436591993e3cf9bd6812594d15b4c8601672360fe10f3",
+        "frames": 217
+      },
+      {
+        "sequence": "test5_DJI_0102_4",
+        "prediction_sha256": "9aa3f1769c093cf62afd36fc17985a47dd205b7c74f153847b8d5b11b48b096c",
+        "gt_sha256": "4238a2f98229cdf27043307b4408e2f5bbb53007eaf10038598c6ee22bab3ac8",
+        "frames": 676
+      },
+      {
+        "sequence": "test6_DJI_0103_1",
+        "prediction_sha256": "4c9af6d431e0719538ed34d99660b998032244dd08b7b67d1f915ae77f51aadf",
+        "gt_sha256": "d02046be2657b215188de4a513e2ca219a452cc345d65ae6341677153548dbb6",
+        "frames": 1544
+      },
+      {
+        "sequence": "test6_DJI_0103_2",
+        "prediction_sha256": "feda7764c961b061d3a5c251ffd7b26b7486e85a6085353b37a29fa9381e0e15",
+        "gt_sha256": "abf51756ab27e224013ed14a121ea86f6622c7b121ac5275c02fdc2163a16ed3",
+        "frames": 451
+      },
+      {
+        "sequence": "test6_DJI_0103_3",
+        "prediction_sha256": "41914a70b02138314774d3490aecbda1e7d0174fbdd173dbe76d05262b50f7d2",
+        "gt_sha256": "d7a626c07d3be69cff86226ac6b7a8200bdcf77238d9a4739ae93c43e69691e8",
+        "frames": 103
+      },
+      {
+        "sequence": "test6_DJI_0103_4",
+        "prediction_sha256": "c30c770676d844591c003ca9457e555fee420ac166b8de169ea563d1c1b34797",
+        "gt_sha256": "bcacac0e1f7fab4cc55952e2beea1c048f5b1bb9fde6f630c00118e2428b7afb",
+        "frames": 1566
+      },
+      {
+        "sequence": "test6_DJI_0103_5",
+        "prediction_sha256": "0cd251a5d639b5454c32c3a42cceea82e6f5682dcbbb42880ab26e258e5e7c99",
+        "gt_sha256": "9a024cda5fa8640a93f7f5140ecd7c373143c6a3ef154b4c3d026836916b5407",
+        "frames": 1051
+      },
+      {
+        "sequence": "test7_DJI_0106_1",
+        "prediction_sha256": "2459e6546d16858986dea20d65f8e2e0aede64d8b6bdf1dfbe19a8493aec6a67",
+        "gt_sha256": "5e17aba399dd7500656b6e4420867d59dfdf12348924a088f9a1a96e5fdeaf56",
+        "frames": 768
+      },
+      {
+        "sequence": "test7_DJI_0106_2",
+        "prediction_sha256": "3812e1b4fe6d8458f676abeffd15ec8263dcabb6a8832f04bd4db425ee1b818d",
+        "gt_sha256": "534445014d91c36e5213f8a269e73a3dfcf0ea854858b0a486532b5627660926",
+        "frames": 243
+      },
+      {
+        "sequence": "test7_DJI_0106_3",
+        "prediction_sha256": "c1b7883d2f21e047592379d0997d3f855cf93670cfd599a7e262f52e17957d42",
+        "gt_sha256": "bad9dbc52cda8b63b853cd37e044831c1799ef58a7b0989a05c69aa22f9d9143",
+        "frames": 446
+      },
+      {
+        "sequence": "test8_DJI_0107_1",
+        "prediction_sha256": "145fad4d75b51840fcc07c26490592b00b9da976d1297e44795a1f1d3159ef82",
+        "gt_sha256": "6d85e3abdff7ba7654be0e538ccc07e937dc8bac3052be45d40b13032e615bea",
+        "frames": 1683
+      },
+      {
+        "sequence": "test8_DJI_0107_2",
+        "prediction_sha256": "6a583ab8a08cc9ffd5e3b08053e3359596d75f14079e1e3d2622f7e95e19ff8d",
+        "gt_sha256": "13bc5e3c91f2d46f7592b0658128b4cfcdbc23f9c09f7372dccc5ddc9b79e811",
+        "frames": 251
+      },
+      {
+        "sequence": "test8_DJI_0107_3",
+        "prediction_sha256": "9fd429f11a2a3e76cf3a4897be00e7f5ab47099a2227ecb0a8012546db323828",
+        "gt_sha256": "902ce0f6f38b2dd304e2be5dc8754cae10803e00d6db58aec99240fb977802b7",
+        "frames": 459
+      },
+      {
+        "sequence": "test9_DJI_0192_1",
+        "prediction_sha256": "9c19724da0eba5dc68f83ee1ee4795d71c230d7436b2b31508abf6523938726a",
+        "gt_sha256": "35e1cb09fb2481348fbeb6261cd5150d75c403123e83f1ac58ab23baf63d866e",
+        "frames": 171
+      },
+      {
+        "sequence": "test9_DJI_0192_2",
+        "prediction_sha256": "b1b2e01d76b5ccb497227651c8e81b664643b071d3aea6195f4740539a5cc981",
+        "gt_sha256": "025053bf7c636713a7cdd800c81fa8b44e4f4a78b2fbb3c28f131ae6d94bd8c2",
+        "frames": 52
+      },
+      {
+        "sequence": "test9_DJI_0192_3",
+        "prediction_sha256": "17b0fda89a7c423ab730257d9eb7de552627aa143272a52ab23b1d957cb82500",
+        "gt_sha256": "ed3bf9b9667e89d4e4d9521a737c82770ab184a70a33ff8bd6a2e377370c848a",
+        "frames": 1001
+      },
+      {
+        "sequence": "test9_DJI_0192_4",
+        "prediction_sha256": "4efe109e559f8d429cc104b887109d647453c603668de0c9dac0919a29ab2041",
+        "gt_sha256": "b259b57c8a825068b3a1e9afe1b52f23965d4aabccf8c5b407ad24a5ba7987f0",
+        "frames": 4521
+      },
+      {
+        "sequence": "test9_DJI_0192_5",
+        "prediction_sha256": "cf8eeb6ae4b06fa26466fc9f540ad825f287c345a2d2f02fc5a2c3190c781e3f",
+        "gt_sha256": "3accd717b1e532540b3097bfa5398d21d61fd1c9b0c185d5d412e76e185f419e",
+        "frames": 1669
+      },
+      {
+        "sequence": "test10_jl_hbd_1",
+        "prediction_sha256": "696f1d61905a1cb1d1f2dd382c8e3a53c359c5d4ab64f9233c5bc1a7e4ee7258",
+        "gt_sha256": "5012f175926183c28e9ada2398fbd800d5b59ef09d4a2c0ba359e4083f6267bf",
+        "frames": 389
+      },
+      {
+        "sequence": "test10_jl_hbd_2",
+        "prediction_sha256": "bd2d59e07202bd78c4efff1333ace9141664c38765b105813b783c106d14c46c",
+        "gt_sha256": "216b5dd1151740c41540224bec62a2776cf7d1c0bbcc3eb97a5eafac14342d17",
+        "frames": 137
+      },
+      {
+        "sequence": "test10_jl_hbd_3",
+        "prediction_sha256": "d12d5122ecc362ee622b7802fe62461d5cfc8627d5249a8564b54b082b8d3f90",
+        "gt_sha256": "c8109ac8e92441a65775dccfe541879ebdf427b19e42e5ba3a4b5a297c98c57f",
+        "frames": 742
+      },
+      {
+        "sequence": "test10_jl_hbd_4",
+        "prediction_sha256": "bff1274ff4458ff0b0b2fe0cea350c73a84179f828f1f50b59a042eed644cf7f",
+        "gt_sha256": "6ad5bf79829cf13bd7854e3a9838070949d5f86cdb058b7ff9e64edda28e3c22",
+        "frames": 287
+      },
+      {
+        "sequence": "test10_jl_hbd_5",
+        "prediction_sha256": "74290952dee5790b038b580c71730642e16747e5fed0bcd232952498a8eb12c1",
+        "gt_sha256": "ac43ee626c22d01da1255e25def3b6232498a6ef126327741d9a1529da7bfb48",
+        "frames": 309
+      },
+      {
+        "sequence": "test10_jl_hbd_6",
+        "prediction_sha256": "b032cb42eb18b4228d80aee973345316cea77ac7dcaee603051fb09487dc685e",
+        "gt_sha256": "6e79e593e1ea65de78f4305f1ca1e571c2c655a5b33181c7cf8666ea165ffea1",
+        "frames": 184
+      },
+      {
+        "sequence": "test10_jl_hbd_7",
+        "prediction_sha256": "3f0c9465326ffbd5a128486105e6d3f87739e2cb0de9163431b46ef750aabbd5",
+        "gt_sha256": "359808c6c81955586af9331e2182e0fb41f4ab8e670d8245d2cce38747b9fdd5",
+        "frames": 138
+      },
+      {
+        "sequence": "test10_jl_hbd_8",
+        "prediction_sha256": "9f61a188529debf0d3033c3024461c0bc4321c71613e7fd649f14c69ee595ca9",
+        "gt_sha256": "2cab18be6882e114fc62f094ccf06f4b8ceb4f4f658dbcd355d1477e1897e927",
+        "frames": 123
+      },
+      {
+        "sequence": "test10_jl_hbd_9",
+        "prediction_sha256": "2911f01b4a7bc87bc7e2e5d0771c0e5ca2d1aead630d918a07c64a5e92532e36",
+        "gt_sha256": "a7fb2801e6452d4f9cc32fb8e0289ca19e4e5dfbb99314a9e0c545754816a41c",
+        "frames": 341
+      },
+      {
+        "sequence": "test11_dj_1",
+        "prediction_sha256": "df3e150060cc8746d076f3fd29b3eba1c6a432a0502f436bb920093a27932532",
+        "gt_sha256": "785aa95714029e9d0ca899e1302e6a7e3feaafb857bbe49ab55017673d2f7e39",
+        "frames": 260
+      },
+      {
+        "sequence": "test11_dj_2",
+        "prediction_sha256": "4028d240ec938e6a6a0ef2dc811bd311047d35ce750ee949b5c82e14527844f2",
+        "gt_sha256": "8f0f9904f8cde5a5ed6ac56e300705d052b3939d903b1bb9bc1ba3c061cd62c7",
+        "frames": 625
+      },
+      {
+        "sequence": "test11_dj_3",
+        "prediction_sha256": "023d5d7cfb4d71efc5023976167a940912b378de6bf95f080fb852360509d11b",
+        "gt_sha256": "0b14415ab7b3985c412050ef1fafad69e4d4586169559f5357b05135805e4bd4",
+        "frames": 215
+      },
+      {
+        "sequence": "test11_dj_4",
+        "prediction_sha256": "2f53f3c14a4f71b37385aeee1225a8d5d5a7861cad2d5fb8d343f17f7a615ca4",
+        "gt_sha256": "f53ec1d3e56fb6ff56490604258bae812fc8bbfeeb939462e571cc2497e27fdf",
+        "frames": 564
+      }
+    ]
+  },
+  {
+    "dataset": "UAV2UAV",
+    "method": "RLSM-IMMTrack",
+    "source_prediction_collection": "risk_limited_shadow_memory_uav2uav2_all49/risk_limited",
+    "sequences": [
+      {
+        "sequence": "test1_DJI_0081_1",
+        "prediction_sha256": "140b4ecedc9c5cb2724a661ce6d3ef2f3c4d769c07b7d3054e8d219038b584b8",
+        "gt_sha256": "6230263df713f86ecbd008320da1d326a3dacf819bd654e2f9303f836ea7e11b",
+        "frames": 217
+      },
+      {
+        "sequence": "test1_DJI_0081_2",
+        "prediction_sha256": "d6031d13b9d129ff1499a1a0f497d6e22542d354ba10db1ae84e48efa6cb6797",
+        "gt_sha256": "1ca5c479f05eed7dab7173f82be7779bc493f775e622940deff62f7e42a655e4",
+        "frames": 729
+      },
+      {
+        "sequence": "test1_DJI_0081_3",
+        "prediction_sha256": "c6fc4d0546d36a9278aea86f3ee7719eea3978aab498e96cc81bc177aa2330b4",
+        "gt_sha256": "a58d2cbbdcc0a1877f133eaab15fc1eee7b03bfb3231b72e163cb4b31e615928",
+        "frames": 129
+      },
+      {
+        "sequence": "test1_DJI_0081_4",
+        "prediction_sha256": "46a877475501cbc66fc92e55ac00ffd1933bae7cc4ec7c98f1e38460bda2e857",
+        "gt_sha256": "cb093db3ffe866c27ccab03993a796ee08b17c2bd6eeada46126b4d9721f627c",
+        "frames": 314
+      },
+      {
+        "sequence": "test3_DJI_0087_1",
+        "prediction_sha256": "684b8bc63c974ef11785563794ec7a9f09b354d9f6474e8ca250b83af10ff869",
+        "gt_sha256": "8d19ee4eb8d5ffd349815acebfb004d327d7f81f1735361855ad62c58c9b60f6",
+        "frames": 400
+      },
+      {
+        "sequence": "test3_DJI_0087_2",
+        "prediction_sha256": "ba0a80a9a068e092403b40d4c1f52568a8050cc5b72a2af1add13e3bae92de5d",
+        "gt_sha256": "4ed3afd70d33b3589c1d78a1a2ef15f2fa3ac97a8d3067637394f1b51ee93517",
+        "frames": 319
+      },
+      {
+        "sequence": "test3_DJI_0087_3",
+        "prediction_sha256": "cdc70b9c46394e3e4b0aa4f62114d53bcde6a0b2d42a1d6d0a2bf622281f8314",
+        "gt_sha256": "2a82e2e7946b2cbde97cd7003494306d0ef5be02ea50d03d60a60c53553fb2c0",
+        "frames": 165
+      },
+      {
+        "sequence": "test3_DJI_0087_4",
+        "prediction_sha256": "9987a7f0c44f9e4718f71e3e094fa06a3918ea2d9dc001a321d4b94a7f0651dd",
+        "gt_sha256": "373b7ca95f829ebdb89dd8232e59d77748be86f093d510e89c34abc14287acf9",
+        "frames": 200
+      },
+      {
+        "sequence": "test3_DJI_0087_5",
+        "prediction_sha256": "9ff36ac2a0d7c87a55eaf555a7602882517cca1e3b65e677c52e4b1d7c13e787",
+        "gt_sha256": "ba3cd8a3f02e00c6e69eba2570ae97a8eb4f2552fd0cf9c6914778467949a0b7",
+        "frames": 302
+      },
+      {
+        "sequence": "test3_DJI_0087_6",
+        "prediction_sha256": "b883439400a68e45ff9fd5b757f6cf37263da49b1f876b465f53672522f8e8d1",
+        "gt_sha256": "318ff5dd14f57218d70966388ca22ee29cf76532f6e5f5376598b597e9d90982",
+        "frames": 516
+      },
+      {
+        "sequence": "test3_DJI_0087_7",
+        "prediction_sha256": "5680c6957a0bc47e074470e5eebe167a465a54fc8f91a626b6ddb5de14b206db",
+        "gt_sha256": "4f5fea2c71c613779f1c7074f8e560880d884ad322ec682e0f93e5e0f652deb9",
+        "frames": 159
+      },
+      {
+        "sequence": "test3_DJI_0087_8",
+        "prediction_sha256": "891b47d54699e8dae8334c5bacd32b26aea537c1f140240e0d86032f3ce86720",
+        "gt_sha256": "5956beb3a00dcaaa725a37693fb31f096bf94209cacfc768017017266b12e5ed",
+        "frames": 211
+      },
+      {
+        "sequence": "test4_DJI_0101_1",
+        "prediction_sha256": "364131acdb36c60846069fe3db30ccdb5d58e567138f5e421419e6abf55dc407",
+        "gt_sha256": "1b03afcae953d5fbb0fe4138a51817b9f633e3ab7e459c8c97ebfe657809add9",
+        "frames": 986
+      },
+      {
+        "sequence": "test4_DJI_0101_2",
+        "prediction_sha256": "7b9df019233a87b10d1829013143b88a8704c2dc25c2a91f1f97c515c0e8bd55",
+        "gt_sha256": "14d691222db78e1caafa79c0194ea37eadbd477428775a25a23efc818a92d199",
+        "frames": 556
+      },
+      {
+        "sequence": "test4_DJI_0101_3",
+        "prediction_sha256": "0e2ef1353047e1db2d583d86d475626ba71cce0969774f67b9ba128ed785c5f6",
+        "gt_sha256": "b737d5c743cd336bf5469deba3dc4588c841494ac3fd36ef0a12e305ef154ec5",
+        "frames": 248
+      },
+      {
+        "sequence": "test4_DJI_0101_4",
+        "prediction_sha256": "8fc0573243e76ed3f2405f56c217f1c8965d01071cac915222c5f5c3e85936bb",
+        "gt_sha256": "3a707a35332904a72829e1da8bd5d52c129468cdd96a633e8b88060b12481fbc",
+        "frames": 836
+      },
+      {
+        "sequence": "test5_DJI_0102_1",
+        "prediction_sha256": "0a5f8724a0cd99ffe60b99af7ea5e6ff085b49a81378817b32cf39ddf766f013",
+        "gt_sha256": "c07d02770006ef2eb6e7bba7fdde4f235a56dbeb41e978f4572abaa4948ceb18",
+        "frames": 60
+      },
+      {
+        "sequence": "test5_DJI_0102_2",
+        "prediction_sha256": "ab1708514d65922ddb53896c7db1e63da6fac367997a61adfd3336659851d3a7",
+        "gt_sha256": "27bbdcdfd84539c7d2cba9e5fb0db8c57b85c35181c0e046653c64f3994e2691",
+        "frames": 306
+      },
+      {
+        "sequence": "test5_DJI_0102_3",
+        "prediction_sha256": "54d9bc90cc45a5cf1dd4d05bd03f25d894ee2506d10ba57c05fabde195205eca",
+        "gt_sha256": "48590cb00a6d0b55665436591993e3cf9bd6812594d15b4c8601672360fe10f3",
+        "frames": 217
+      },
+      {
+        "sequence": "test5_DJI_0102_4",
+        "prediction_sha256": "caa9abfacd7de55319edfd2a0c80a71860ab40d1cd8f9df3075b87c85c48a17b",
+        "gt_sha256": "4238a2f98229cdf27043307b4408e2f5bbb53007eaf10038598c6ee22bab3ac8",
+        "frames": 676
+      },
+      {
+        "sequence": "test6_DJI_0103_1",
+        "prediction_sha256": "aa3bf54eb4e898adabf9d7936fa995a02d6cf9bd035aeb216efb6defd9d82e5b",
+        "gt_sha256": "d02046be2657b215188de4a513e2ca219a452cc345d65ae6341677153548dbb6",
+        "frames": 1544
+      },
+      {
+        "sequence": "test6_DJI_0103_2",
+        "prediction_sha256": "76c639fccdf6c04f0b1c27b3a1666c47f2b78ad366826e63df1d9003d68ff1ee",
+        "gt_sha256": "abf51756ab27e224013ed14a121ea86f6622c7b121ac5275c02fdc2163a16ed3",
+        "frames": 451
+      },
+      {
+        "sequence": "test6_DJI_0103_3",
+        "prediction_sha256": "01dedc700a6b433e6ecae5381938ce2e1bd0d8b6b6e8c2cd15d1ecc9e01e2106",
+        "gt_sha256": "d7a626c07d3be69cff86226ac6b7a8200bdcf77238d9a4739ae93c43e69691e8",
+        "frames": 103
+      },
+      {
+        "sequence": "test6_DJI_0103_4",
+        "prediction_sha256": "6f744a429bc7b01edbd06e5cec408d973851abdfdbc00c9bece8003790af1372",
+        "gt_sha256": "bcacac0e1f7fab4cc55952e2beea1c048f5b1bb9fde6f630c00118e2428b7afb",
+        "frames": 1566
+      },
+      {
+        "sequence": "test6_DJI_0103_5",
+        "prediction_sha256": "5f9194229ce0ce659978b6e825d44d4e8efa36f5b3d9bf1c550bc1f4dfd6daa6",
+        "gt_sha256": "9a024cda5fa8640a93f7f5140ecd7c373143c6a3ef154b4c3d026836916b5407",
+        "frames": 1051
+      },
+      {
+        "sequence": "test7_DJI_0106_1",
+        "prediction_sha256": "74447cc7a037384a624be1a276bdc1589e9023b7be61e065158c4899a201e37a",
+        "gt_sha256": "5e17aba399dd7500656b6e4420867d59dfdf12348924a088f9a1a96e5fdeaf56",
+        "frames": 768
+      },
+      {
+        "sequence": "test7_DJI_0106_2",
+        "prediction_sha256": "e3c05b5d129047e2857957fbc68bd504896a7c5369b4bd1626adaab950f26c77",
+        "gt_sha256": "534445014d91c36e5213f8a269e73a3dfcf0ea854858b0a486532b5627660926",
+        "frames": 243
+      },
+      {
+        "sequence": "test7_DJI_0106_3",
+        "prediction_sha256": "2a293d1240d2f3c569b8dabf35cff27818309969b5df570990f18b05dcb2dab4",
+        "gt_sha256": "bad9dbc52cda8b63b853cd37e044831c1799ef58a7b0989a05c69aa22f9d9143",
+        "frames": 446
+      },
+      {
+        "sequence": "test8_DJI_0107_1",
+        "prediction_sha256": "4ba0eff028e8e6c7115bfde08dbeae2b7f0d007ed5e47f683b0dabcb786c783b",
+        "gt_sha256": "6d85e3abdff7ba7654be0e538ccc07e937dc8bac3052be45d40b13032e615bea",
+        "frames": 1683
+      },
+      {
+        "sequence": "test8_DJI_0107_2",
+        "prediction_sha256": "117ee4928dee62ffaa77accaca97a6e099ae080ae19e262a6dcd94bb6b7c1f64",
+        "gt_sha256": "13bc5e3c91f2d46f7592b0658128b4cfcdbc23f9c09f7372dccc5ddc9b79e811",
+        "frames": 251
+      },
+      {
+        "sequence": "test8_DJI_0107_3",
+        "prediction_sha256": "9d193475853ae98717cd006fca33cb3bec3e85e407397a3deb2f902024133069",
+        "gt_sha256": "902ce0f6f38b2dd304e2be5dc8754cae10803e00d6db58aec99240fb977802b7",
+        "frames": 459
+      },
+      {
+        "sequence": "test9_DJI_0192_1",
+        "prediction_sha256": "45f7ddd266675fc25a3683cbad9d572c98448bed2c7e28125b664e628cd625bf",
+        "gt_sha256": "35e1cb09fb2481348fbeb6261cd5150d75c403123e83f1ac58ab23baf63d866e",
+        "frames": 171
+      },
+      {
+        "sequence": "test9_DJI_0192_2",
+        "prediction_sha256": "d0aee29f560c4ae8708d801e12eaca64c82ed598384dafe69a4e9c4b85e4b71f",
+        "gt_sha256": "025053bf7c636713a7cdd800c81fa8b44e4f4a78b2fbb3c28f131ae6d94bd8c2",
+        "frames": 52
+      },
+      {
+        "sequence": "test9_DJI_0192_3",
+        "prediction_sha256": "1f6bab52a0f9f356c4d0c355652ca31b026448b80af53d2210987d94171fac4b",
+        "gt_sha256": "ed3bf9b9667e89d4e4d9521a737c82770ab184a70a33ff8bd6a2e377370c848a",
+        "frames": 1001
+      },
+      {
+        "sequence": "test9_DJI_0192_4",
+        "prediction_sha256": "bdda4af967bd4b8cceb22285bb3261a18ad0c76d90e4e9f1671bf70e5aea4d00",
+        "gt_sha256": "b259b57c8a825068b3a1e9afe1b52f23965d4aabccf8c5b407ad24a5ba7987f0",
+        "frames": 4521
+      },
+      {
+        "sequence": "test9_DJI_0192_5",
+        "prediction_sha256": "988bb0424b90ed97395979683caaffcfe62069adc499684a5958f81996a057d5",
+        "gt_sha256": "3accd717b1e532540b3097bfa5398d21d61fd1c9b0c185d5d412e76e185f419e",
+        "frames": 1669
+      },
+      {
+        "sequence": "test10_jl_hbd_1",
+        "prediction_sha256": "1ab9631afa3c6a33044e159ff9b00ef51918668630bfadbce58397ca03c4be14",
+        "gt_sha256": "5012f175926183c28e9ada2398fbd800d5b59ef09d4a2c0ba359e4083f6267bf",
+        "frames": 389
+      },
+      {
+        "sequence": "test10_jl_hbd_2",
+        "prediction_sha256": "abc05c1d4bbf18c381e7213093f681faa1e9f338f8e7ade1a66a48da5890a892",
+        "gt_sha256": "216b5dd1151740c41540224bec62a2776cf7d1c0bbcc3eb97a5eafac14342d17",
+        "frames": 137
+      },
+      {
+        "sequence": "test10_jl_hbd_3",
+        "prediction_sha256": "0d3916a38504c1bcdcc076773ad80aa945ea06cdad88901502374d152de580cf",
+        "gt_sha256": "c8109ac8e92441a65775dccfe541879ebdf427b19e42e5ba3a4b5a297c98c57f",
+        "frames": 742
+      },
+      {
+        "sequence": "test10_jl_hbd_4",
+        "prediction_sha256": "4ac38782ba62610e4615907f576357b0721e96d83bafc3643e3142ad88035a4c",
+        "gt_sha256": "6ad5bf79829cf13bd7854e3a9838070949d5f86cdb058b7ff9e64edda28e3c22",
+        "frames": 287
+      },
+      {
+        "sequence": "test10_jl_hbd_5",
+        "prediction_sha256": "a3cd486d1c71918ab6ccd7ed13dafef7fe69f71200671dd324f6e0a3e29d875a",
+        "gt_sha256": "ac43ee626c22d01da1255e25def3b6232498a6ef126327741d9a1529da7bfb48",
+        "frames": 309
+      },
+      {
+        "sequence": "test10_jl_hbd_6",
+        "prediction_sha256": "31d3b8a7ac81f3955229459baa099de447f4d401d2c38dec7fbda0c02591e60e",
+        "gt_sha256": "6e79e593e1ea65de78f4305f1ca1e571c2c655a5b33181c7cf8666ea165ffea1",
+        "frames": 184
+      },
+      {
+        "sequence": "test10_jl_hbd_7",
+        "prediction_sha256": "5b50ace6d569cd76080b48d7a268772fed3a24dac80d71e6423dba0805179b0f",
+        "gt_sha256": "359808c6c81955586af9331e2182e0fb41f4ab8e670d8245d2cce38747b9fdd5",
+        "frames": 138
+      },
+      {
+        "sequence": "test10_jl_hbd_8",
+        "prediction_sha256": "e05a57a3081651345b53591e8be091e76527c39a1543e9ba1068eb4bc87347f9",
+        "gt_sha256": "2cab18be6882e114fc62f094ccf06f4b8ceb4f4f658dbcd355d1477e1897e927",
+        "frames": 123
+      },
+      {
+        "sequence": "test10_jl_hbd_9",
+        "prediction_sha256": "3812f1c8ba4944dec262a1af7b970e9e72a55ea766778b06288ce506b72ccb2d",
+        "gt_sha256": "a7fb2801e6452d4f9cc32fb8e0289ca19e4e5dfbb99314a9e0c545754816a41c",
+        "frames": 341
+      },
+      {
+        "sequence": "test11_dj_1",
+        "prediction_sha256": "1edd6d1f0d966faa549a9455fe676ca3282137b3736681687a13894484405de8",
+        "gt_sha256": "785aa95714029e9d0ca899e1302e6a7e3feaafb857bbe49ab55017673d2f7e39",
+        "frames": 260
+      },
+      {
+        "sequence": "test11_dj_2",
+        "prediction_sha256": "b4417453a86d3d461d40554275061202b7edaa602e6853639ec01aaa8af9aa56",
+        "gt_sha256": "8f0f9904f8cde5a5ed6ac56e300705d052b3939d903b1bb9bc1ba3c061cd62c7",
+        "frames": 625
+      },
+      {
+        "sequence": "test11_dj_3",
+        "prediction_sha256": "7d6e3394f9df742e658f2331f10c6511684340f5aac2a8b54af217d17c3b135f",
+        "gt_sha256": "0b14415ab7b3985c412050ef1fafad69e4d4586169559f5357b05135805e4bd4",
+        "frames": 215
+      },
+      {
+        "sequence": "test11_dj_4",
+        "prediction_sha256": "6d167441ccb3c400295f517d072f6fb5bec70ba023f41371271be1646cdd6427",
+        "gt_sha256": "f53ec1d3e56fb6ff56490604258bae812fc8bbfeeb939462e571cc2497e27fdf",
+        "frames": 564
+      }
+    ]
+  },
+  {
+    "dataset": "UAV2UAV",
+    "method": "ARTrackV2-B-256",
+    "source_prediction_collection": "artrackv2_b256_uav2uav2_full49_v2",
+    "sequences": [
+      {
+        "sequence": "test1_DJI_0081_1",
+        "prediction_sha256": "363b87679c49c360e07398453a584fcf8a3971e3d6b24f5ffe36f694cf132133",
+        "gt_sha256": "6230263df713f86ecbd008320da1d326a3dacf819bd654e2f9303f836ea7e11b",
+        "frames": 217
+      },
+      {
+        "sequence": "test1_DJI_0081_2",
+        "prediction_sha256": "5c857353b1e0e3b7d29efe2c9868e86e7c315bfa5d8a9a39b64a9c23a521da3c",
+        "gt_sha256": "1ca5c479f05eed7dab7173f82be7779bc493f775e622940deff62f7e42a655e4",
+        "frames": 729
+      },
+      {
+        "sequence": "test1_DJI_0081_3",
+        "prediction_sha256": "4f6043cc3867fc80042972f0c78faf7cfd7fa262fde178c0cfe2dcf9d5abbd97",
+        "gt_sha256": "a58d2cbbdcc0a1877f133eaab15fc1eee7b03bfb3231b72e163cb4b31e615928",
+        "frames": 129
+      },
+      {
+        "sequence": "test1_DJI_0081_4",
+        "prediction_sha256": "1b1b9f4ffbb415f1259b7f03ffdff50803c38d2a6f298ebe2588be4f5fa3c01f",
+        "gt_sha256": "cb093db3ffe866c27ccab03993a796ee08b17c2bd6eeada46126b4d9721f627c",
+        "frames": 314
+      },
+      {
+        "sequence": "test3_DJI_0087_1",
+        "prediction_sha256": "12734a4d9d01691b8ec1f0f0c1d506805b5f3984deed31c91921b18dc0ce528f",
+        "gt_sha256": "8d19ee4eb8d5ffd349815acebfb004d327d7f81f1735361855ad62c58c9b60f6",
+        "frames": 400
+      },
+      {
+        "sequence": "test3_DJI_0087_2",
+        "prediction_sha256": "6ba895c80c5fd4de39f7c365ecb2fd7f3ebdbac8bf451be011e7e512bf802bfc",
+        "gt_sha256": "4ed3afd70d33b3589c1d78a1a2ef15f2fa3ac97a8d3067637394f1b51ee93517",
+        "frames": 319
+      },
+      {
+        "sequence": "test3_DJI_0087_3",
+        "prediction_sha256": "edd8747f0499b5fa10d2b79146c81a0df04b144dd13745e90936383e4902a792",
+        "gt_sha256": "2a82e2e7946b2cbde97cd7003494306d0ef5be02ea50d03d60a60c53553fb2c0",
+        "frames": 165
+      },
+      {
+        "sequence": "test3_DJI_0087_4",
+        "prediction_sha256": "b0d22c1cbfc3bbd006282d1b5772275186eaeb22baddf1573cb09db884d04046",
+        "gt_sha256": "373b7ca95f829ebdb89dd8232e59d77748be86f093d510e89c34abc14287acf9",
+        "frames": 200
+      },
+      {
+        "sequence": "test3_DJI_0087_5",
+        "prediction_sha256": "57b5a149a474dc13fcdcf5c30f406862b4c3c980a47efbb5eed852a098291992",
+        "gt_sha256": "ba3cd8a3f02e00c6e69eba2570ae97a8eb4f2552fd0cf9c6914778467949a0b7",
+        "frames": 302
+      },
+      {
+        "sequence": "test3_DJI_0087_6",
+        "prediction_sha256": "08857729a6435dbfec0dfe8e07df4696f849be75f753d6f7651e153dcbf27469",
+        "gt_sha256": "318ff5dd14f57218d70966388ca22ee29cf76532f6e5f5376598b597e9d90982",
+        "frames": 516
+      },
+      {
+        "sequence": "test3_DJI_0087_7",
+        "prediction_sha256": "c43e07c382e308411d489335f1c1ca72ac1c9a76fdb7fb731e8fe8c3c7ca7467",
+        "gt_sha256": "4f5fea2c71c613779f1c7074f8e560880d884ad322ec682e0f93e5e0f652deb9",
+        "frames": 159
+      },
+      {
+        "sequence": "test3_DJI_0087_8",
+        "prediction_sha256": "940e8ef5d60bca9da4b2b1bd3e6c2a24d40370c6836c0ddc7570dd2ec33fc0ee",
+        "gt_sha256": "5956beb3a00dcaaa725a37693fb31f096bf94209cacfc768017017266b12e5ed",
+        "frames": 211
+      },
+      {
+        "sequence": "test4_DJI_0101_1",
+        "prediction_sha256": "b844aa375b25637fe9efc510f402f11ef4c5b980aa55d3c2ae19bc1f8fdeb6c4",
+        "gt_sha256": "1b03afcae953d5fbb0fe4138a51817b9f633e3ab7e459c8c97ebfe657809add9",
+        "frames": 986
+      },
+      {
+        "sequence": "test4_DJI_0101_2",
+        "prediction_sha256": "1a5605b54850c8e4d6a47f1c970b9ab3b9a7672b5c6042984bc3b51e5d004cf3",
+        "gt_sha256": "14d691222db78e1caafa79c0194ea37eadbd477428775a25a23efc818a92d199",
+        "frames": 556
+      },
+      {
+        "sequence": "test4_DJI_0101_3",
+        "prediction_sha256": "edf0c7907a24780c6196e66b7440781309653f524594ff983720657232cffe01",
+        "gt_sha256": "b737d5c743cd336bf5469deba3dc4588c841494ac3fd36ef0a12e305ef154ec5",
+        "frames": 248
+      },
+      {
+        "sequence": "test4_DJI_0101_4",
+        "prediction_sha256": "820c3ba142f473c0c2dc0838d41f0aed245b435c3e8657c5eb5876f63f7332db",
+        "gt_sha256": "3a707a35332904a72829e1da8bd5d52c129468cdd96a633e8b88060b12481fbc",
+        "frames": 836
+      },
+      {
+        "sequence": "test5_DJI_0102_1",
+        "prediction_sha256": "aaa34fb35cd2da1beb0e9e57bccc61817d679c5a42f2cdf8d00a1e2705c0550b",
+        "gt_sha256": "c07d02770006ef2eb6e7bba7fdde4f235a56dbeb41e978f4572abaa4948ceb18",
+        "frames": 60
+      },
+      {
+        "sequence": "test5_DJI_0102_2",
+        "prediction_sha256": "84994e42f7b7de0706bb21dbe8ddc5d03ad08f4605eb51c9429ee24d7923db94",
+        "gt_sha256": "27bbdcdfd84539c7d2cba9e5fb0db8c57b85c35181c0e046653c64f3994e2691",
+        "frames": 306
+      },
+      {
+        "sequence": "test5_DJI_0102_3",
+        "prediction_sha256": "3f6a691f6af2f7a9f13f23b059af490ca58bdfdbca69dd70b63e62d7308d31c7",
+        "gt_sha256": "48590cb00a6d0b55665436591993e3cf9bd6812594d15b4c8601672360fe10f3",
+        "frames": 217
+      },
+      {
+        "sequence": "test5_DJI_0102_4",
+        "prediction_sha256": "63af8561bc868477e7acc841d5b4f47224f5554de7050dd0a5921dad1470de77",
+        "gt_sha256": "4238a2f98229cdf27043307b4408e2f5bbb53007eaf10038598c6ee22bab3ac8",
+        "frames": 676
+      },
+      {
+        "sequence": "test6_DJI_0103_1",
+        "prediction_sha256": "784ebf52cb0bb719bc3ae399777205bfe3a95ac7675268f1906edbd8ced249d4",
+        "gt_sha256": "d02046be2657b215188de4a513e2ca219a452cc345d65ae6341677153548dbb6",
+        "frames": 1544
+      },
+      {
+        "sequence": "test6_DJI_0103_2",
+        "prediction_sha256": "48b880918fdf9d0f01698ef30514d06fcc339ae7385d90adf8d8ebdc644eb669",
+        "gt_sha256": "abf51756ab27e224013ed14a121ea86f6622c7b121ac5275c02fdc2163a16ed3",
+        "frames": 451
+      },
+      {
+        "sequence": "test6_DJI_0103_3",
+        "prediction_sha256": "9697f1d2a011fb909df3e608574155c23c8c2daed930d0d6c6f9787ea485b264",
+        "gt_sha256": "d7a626c07d3be69cff86226ac6b7a8200bdcf77238d9a4739ae93c43e69691e8",
+        "frames": 103
+      },
+      {
+        "sequence": "test6_DJI_0103_4",
+        "prediction_sha256": "079d94119d754df589810c9e09b9460f117ce63273c74526bff17ee444ed5776",
+        "gt_sha256": "bcacac0e1f7fab4cc55952e2beea1c048f5b1bb9fde6f630c00118e2428b7afb",
+        "frames": 1566
+      },
+      {
+        "sequence": "test6_DJI_0103_5",
+        "prediction_sha256": "8175d766ed55c80c89c239862ada9fed065cfa9874c4fa2fbd52cedf2e9f2aeb",
+        "gt_sha256": "9a024cda5fa8640a93f7f5140ecd7c373143c6a3ef154b4c3d026836916b5407",
+        "frames": 1051
+      },
+      {
+        "sequence": "test7_DJI_0106_1",
+        "prediction_sha256": "756e6b078be9209f165d153f407b7ea0e89a58178552e1a121391859c9846009",
+        "gt_sha256": "5e17aba399dd7500656b6e4420867d59dfdf12348924a088f9a1a96e5fdeaf56",
+        "frames": 768
+      },
+      {
+        "sequence": "test7_DJI_0106_2",
+        "prediction_sha256": "0cd1c348320b536adce9d2369e0dae991175c4c4e8d95f15dc2538aec77a9cab",
+        "gt_sha256": "534445014d91c36e5213f8a269e73a3dfcf0ea854858b0a486532b5627660926",
+        "frames": 243
+      },
+      {
+        "sequence": "test7_DJI_0106_3",
+        "prediction_sha256": "8d3f12bdee7782e8634654ae00ff515176bf140cff00ccec40d3470097784448",
+        "gt_sha256": "bad9dbc52cda8b63b853cd37e044831c1799ef58a7b0989a05c69aa22f9d9143",
+        "frames": 446
+      },
+      {
+        "sequence": "test8_DJI_0107_1",
+        "prediction_sha256": "d95dadf85481787118c48c4e732773f6e6eb31aba77edd550578757df7978aef",
+        "gt_sha256": "6d85e3abdff7ba7654be0e538ccc07e937dc8bac3052be45d40b13032e615bea",
+        "frames": 1683
+      },
+      {
+        "sequence": "test8_DJI_0107_2",
+        "prediction_sha256": "7936e445e04af366e9d3e0ecf13633e23b86d60c1ea69493441e0d9985f76550",
+        "gt_sha256": "13bc5e3c91f2d46f7592b0658128b4cfcdbc23f9c09f7372dccc5ddc9b79e811",
+        "frames": 251
+      },
+      {
+        "sequence": "test8_DJI_0107_3",
+        "prediction_sha256": "98827cd2ca878d1730a0973986310ac1ca08d7703900e03b4473243245d264da",
+        "gt_sha256": "902ce0f6f38b2dd304e2be5dc8754cae10803e00d6db58aec99240fb977802b7",
+        "frames": 459
+      },
+      {
+        "sequence": "test9_DJI_0192_1",
+        "prediction_sha256": "9027e2060cced3aa1e2eec8ec06c7455a30dc929c9b893586a97fb7dd0592f30",
+        "gt_sha256": "35e1cb09fb2481348fbeb6261cd5150d75c403123e83f1ac58ab23baf63d866e",
+        "frames": 171
+      },
+      {
+        "sequence": "test9_DJI_0192_2",
+        "prediction_sha256": "5e0855aca3caa7b20812f9b09952f5cb526bc6e3fabb5fe01615d123bd050c73",
+        "gt_sha256": "025053bf7c636713a7cdd800c81fa8b44e4f4a78b2fbb3c28f131ae6d94bd8c2",
+        "frames": 52
+      },
+      {
+        "sequence": "test9_DJI_0192_3",
+        "prediction_sha256": "934b6ad51255c7cf5d0becfeb57f4a3b969e35c89bcfff19f99d1008f30f2609",
+        "gt_sha256": "ed3bf9b9667e89d4e4d9521a737c82770ab184a70a33ff8bd6a2e377370c848a",
+        "frames": 1001
+      },
+      {
+        "sequence": "test9_DJI_0192_4",
+        "prediction_sha256": "137967674f13f9df2a04f806dade983de8a99a577405a0d27ef8d1cddeeacf64",
+        "gt_sha256": "b259b57c8a825068b3a1e9afe1b52f23965d4aabccf8c5b407ad24a5ba7987f0",
+        "frames": 4521
+      },
+      {
+        "sequence": "test9_DJI_0192_5",
+        "prediction_sha256": "1c0385889b80ddbec7d79bf4d846392e6efa466f4b3ccbe449b43a65b770fb6e",
+        "gt_sha256": "3accd717b1e532540b3097bfa5398d21d61fd1c9b0c185d5d412e76e185f419e",
+        "frames": 1669
+      },
+      {
+        "sequence": "test10_jl_hbd_1",
+        "prediction_sha256": "3ff595a6a395d074c63f7a43232d2d62490f94dc77d32dfa4101809bf1712a9b",
+        "gt_sha256": "5012f175926183c28e9ada2398fbd800d5b59ef09d4a2c0ba359e4083f6267bf",
+        "frames": 389
+      },
+      {
+        "sequence": "test10_jl_hbd_2",
+        "prediction_sha256": "94d1eb1b8af28f05b49236e9800f52dc2cbf1ffaaa9b85bee402be1b04952fde",
+        "gt_sha256": "216b5dd1151740c41540224bec62a2776cf7d1c0bbcc3eb97a5eafac14342d17",
+        "frames": 137
+      },
+      {
+        "sequence": "test10_jl_hbd_3",
+        "prediction_sha256": "9a3f748aa5be2208691223cdfd7b5cdeaeb84e7da80b66d9f0303683a57ae7c5",
+        "gt_sha256": "c8109ac8e92441a65775dccfe541879ebdf427b19e42e5ba3a4b5a297c98c57f",
+        "frames": 742
+      },
+      {
+        "sequence": "test10_jl_hbd_4",
+        "prediction_sha256": "206732017c20d1d771d8a1160a857f4628d168f1e7d3124601b45c2e5231d05c",
+        "gt_sha256": "6ad5bf79829cf13bd7854e3a9838070949d5f86cdb058b7ff9e64edda28e3c22",
+        "frames": 287
+      },
+      {
+        "sequence": "test10_jl_hbd_5",
+        "prediction_sha256": "def6c77659d8d9ee372040839c7df1c47022f581d5a872205f0bf9d3e81d8105",
+        "gt_sha256": "ac43ee626c22d01da1255e25def3b6232498a6ef126327741d9a1529da7bfb48",
+        "frames": 309
+      },
+      {
+        "sequence": "test10_jl_hbd_6",
+        "prediction_sha256": "679cb0701d5aa2719e60810f1ae289a530d208256405e6fcb8433e28c39f210a",
+        "gt_sha256": "6e79e593e1ea65de78f4305f1ca1e571c2c655a5b33181c7cf8666ea165ffea1",
+        "frames": 184
+      },
+      {
+        "sequence": "test10_jl_hbd_7",
+        "prediction_sha256": "66f4ac376077590e12d76cddc2eaf8b786620649f4e8dea94c3570b1b339ee88",
+        "gt_sha256": "359808c6c81955586af9331e2182e0fb41f4ab8e670d8245d2cce38747b9fdd5",
+        "frames": 138
+      },
+      {
+        "sequence": "test10_jl_hbd_8",
+        "prediction_sha256": "18fbef78b6a741a03c21b11138fbda258e40a56bdb3b517488c791ce2d3b145c",
+        "gt_sha256": "2cab18be6882e114fc62f094ccf06f4b8ceb4f4f658dbcd355d1477e1897e927",
+        "frames": 123
+      },
+      {
+        "sequence": "test10_jl_hbd_9",
+        "prediction_sha256": "d3f6aed8e6198df9514abe779ff52ef39a6192fe632c8807268a90def82e570c",
+        "gt_sha256": "a7fb2801e6452d4f9cc32fb8e0289ca19e4e5dfbb99314a9e0c545754816a41c",
+        "frames": 341
+      },
+      {
+        "sequence": "test11_dj_1",
+        "prediction_sha256": "6f162c4851328d7a19177fce796639450cc1881c0ec99b345ea7fd45ffdb726e",
+        "gt_sha256": "785aa95714029e9d0ca899e1302e6a7e3feaafb857bbe49ab55017673d2f7e39",
+        "frames": 260
+      },
+      {
+        "sequence": "test11_dj_2",
+        "prediction_sha256": "49a1eb30433e468f4106851df090fa78e6e3e45014203b345c8521dc8eb0d261",
+        "gt_sha256": "8f0f9904f8cde5a5ed6ac56e300705d052b3939d903b1bb9bc1ba3c061cd62c7",
+        "frames": 625
+      },
+      {
+        "sequence": "test11_dj_3",
+        "prediction_sha256": "a8edd2379c9aded372ee0942db0d80241a16780f528c676c4744dd5e344fc038",
+        "gt_sha256": "0b14415ab7b3985c412050ef1fafad69e4d4586169559f5357b05135805e4bd4",
+        "frames": 215
+      },
+      {
+        "sequence": "test11_dj_4",
+        "prediction_sha256": "a5b658eb1ac5ee6107e28f75aec4e92b526a2fdeabdf0170fd79ca309f7b3be9",
+        "gt_sha256": "f53ec1d3e56fb6ff56490604258bae812fc8bbfeeb939462e571cc2497e27fdf",
+        "frames": 564
+      }
+    ]
+  },
+  {
+    "dataset": "UAV2UAV",
+    "method": "MCITrack-B224",
+    "source_prediction_collection": "mcitrack_b224_uav2uav2_full49",
+    "sequences": [
+      {
+        "sequence": "test1_DJI_0081_1",
+        "prediction_sha256": "aa565f452712e7feb8fc653eee002f1bdca1c1aef388548323818c72e40a8d49",
+        "gt_sha256": "6230263df713f86ecbd008320da1d326a3dacf819bd654e2f9303f836ea7e11b",
+        "frames": 217
+      },
+      {
+        "sequence": "test1_DJI_0081_2",
+        "prediction_sha256": "377e6200d136f17bde7838d5e6f29008e2d33a93d31b0a31bb51ac474cba800f",
+        "gt_sha256": "1ca5c479f05eed7dab7173f82be7779bc493f775e622940deff62f7e42a655e4",
+        "frames": 729
+      },
+      {
+        "sequence": "test1_DJI_0081_3",
+        "prediction_sha256": "4bb21f3552f2d59fa581738cda6e2ad19259ede2d4dff7080c6390c35b64c6b5",
+        "gt_sha256": "a58d2cbbdcc0a1877f133eaab15fc1eee7b03bfb3231b72e163cb4b31e615928",
+        "frames": 129
+      },
+      {
+        "sequence": "test1_DJI_0081_4",
+        "prediction_sha256": "9ca4d2728ed63e1f262d0c513504cd2c645e0ad6308d14157edbee8112d0c343",
+        "gt_sha256": "cb093db3ffe866c27ccab03993a796ee08b17c2bd6eeada46126b4d9721f627c",
+        "frames": 314
+      },
+      {
+        "sequence": "test3_DJI_0087_1",
+        "prediction_sha256": "6c1ea730017500648e9b1c1c07edf82513eef05e6a51cbe24b6a510bb9c16478",
+        "gt_sha256": "8d19ee4eb8d5ffd349815acebfb004d327d7f81f1735361855ad62c58c9b60f6",
+        "frames": 400
+      },
+      {
+        "sequence": "test3_DJI_0087_2",
+        "prediction_sha256": "d7f2ac90aa8340cc2d0e90c0a5c51f0f887833f65b076225fce596f6d17ba6d2",
+        "gt_sha256": "4ed3afd70d33b3589c1d78a1a2ef15f2fa3ac97a8d3067637394f1b51ee93517",
+        "frames": 319
+      },
+      {
+        "sequence": "test3_DJI_0087_3",
+        "prediction_sha256": "641f46f643d83a5b1d3c838057bbb82514b2adeba59ea6928386b5bececaac4d",
+        "gt_sha256": "2a82e2e7946b2cbde97cd7003494306d0ef5be02ea50d03d60a60c53553fb2c0",
+        "frames": 165
+      },
+      {
+        "sequence": "test3_DJI_0087_4",
+        "prediction_sha256": "c6530c031c820fe6c3a9f3dc2f6594c6d79044533b90f115cbce99d2a1f5323d",
+        "gt_sha256": "373b7ca95f829ebdb89dd8232e59d77748be86f093d510e89c34abc14287acf9",
+        "frames": 200
+      },
+      {
+        "sequence": "test3_DJI_0087_5",
+        "prediction_sha256": "4cb342ef15c8b818db5b2eb1b6c6c5890b52c21780e10ddc4a9b1423542976ea",
+        "gt_sha256": "ba3cd8a3f02e00c6e69eba2570ae97a8eb4f2552fd0cf9c6914778467949a0b7",
+        "frames": 302
+      },
+      {
+        "sequence": "test3_DJI_0087_6",
+        "prediction_sha256": "e6d1d2354cca05f3b78bf37515b46622eda63a84c425739609dedc91975a4263",
+        "gt_sha256": "318ff5dd14f57218d70966388ca22ee29cf76532f6e5f5376598b597e9d90982",
+        "frames": 516
+      },
+      {
+        "sequence": "test3_DJI_0087_7",
+        "prediction_sha256": "ae43cd5035920c24dc71bd9ab931f51fb125f1bab81b4099e6e3d9f1c3002ab3",
+        "gt_sha256": "4f5fea2c71c613779f1c7074f8e560880d884ad322ec682e0f93e5e0f652deb9",
+        "frames": 159
+      },
+      {
+        "sequence": "test3_DJI_0087_8",
+        "prediction_sha256": "869154c4212a2f2a93f5fe95e099f3dcddab4961d3e7a0ccd98ac00e2affafec",
+        "gt_sha256": "5956beb3a00dcaaa725a37693fb31f096bf94209cacfc768017017266b12e5ed",
+        "frames": 211
+      },
+      {
+        "sequence": "test4_DJI_0101_1",
+        "prediction_sha256": "861eed971aeb145a0dd2b42230a880cb730c71a5aa1ea23217c5876170fd54f5",
+        "gt_sha256": "1b03afcae953d5fbb0fe4138a51817b9f633e3ab7e459c8c97ebfe657809add9",
+        "frames": 986
+      },
+      {
+        "sequence": "test4_DJI_0101_2",
+        "prediction_sha256": "e6f51adb0088cfe1f61020c6bd44140edeacaae62c0a441e785d9c9b36d6c542",
+        "gt_sha256": "14d691222db78e1caafa79c0194ea37eadbd477428775a25a23efc818a92d199",
+        "frames": 556
+      },
+      {
+        "sequence": "test4_DJI_0101_3",
+        "prediction_sha256": "6ac56fb29946ff39a1b4105a8b98c29ad3184814a3c9d203f3bfcc095dd9a55f",
+        "gt_sha256": "b737d5c743cd336bf5469deba3dc4588c841494ac3fd36ef0a12e305ef154ec5",
+        "frames": 248
+      },
+      {
+        "sequence": "test4_DJI_0101_4",
+        "prediction_sha256": "8de1ef9e11fed639eae5dbe8678944c43147fdfb36f160df9a86d1b8dfb64af9",
+        "gt_sha256": "3a707a35332904a72829e1da8bd5d52c129468cdd96a633e8b88060b12481fbc",
+        "frames": 836
+      },
+      {
+        "sequence": "test5_DJI_0102_1",
+        "prediction_sha256": "eb8bee2270a2458c506f8281a3a28f692921c37fad362c3b7439cd6aba55ac66",
+        "gt_sha256": "c07d02770006ef2eb6e7bba7fdde4f235a56dbeb41e978f4572abaa4948ceb18",
+        "frames": 60
+      },
+      {
+        "sequence": "test5_DJI_0102_2",
+        "prediction_sha256": "45e8c01878307e459b920fbdef5444b8d33a6d824e0559d25538c35c8e81cad6",
+        "gt_sha256": "27bbdcdfd84539c7d2cba9e5fb0db8c57b85c35181c0e046653c64f3994e2691",
+        "frames": 306
+      },
+      {
+        "sequence": "test5_DJI_0102_3",
+        "prediction_sha256": "1cbcef6482f93f789a5937846320bdecb7f7df221775dfb9453bbfed2b4693bd",
+        "gt_sha256": "48590cb00a6d0b55665436591993e3cf9bd6812594d15b4c8601672360fe10f3",
+        "frames": 217
+      },
+      {
+        "sequence": "test5_DJI_0102_4",
+        "prediction_sha256": "02c4d31fe93e6ed5b4b9708532632a980e9182aa4d465f1153583a191a9228ee",
+        "gt_sha256": "4238a2f98229cdf27043307b4408e2f5bbb53007eaf10038598c6ee22bab3ac8",
+        "frames": 676
+      },
+      {
+        "sequence": "test6_DJI_0103_1",
+        "prediction_sha256": "21e87d3070864a7f5243a1cd6b507431979c3c44ddebbe3ce8c1fa9b374d29d3",
+        "gt_sha256": "d02046be2657b215188de4a513e2ca219a452cc345d65ae6341677153548dbb6",
+        "frames": 1544
+      },
+      {
+        "sequence": "test6_DJI_0103_2",
+        "prediction_sha256": "5d99aa0f1166369711f2517c62ab5dae10dcba3a3b0fd53d7ce917b99d19c392",
+        "gt_sha256": "abf51756ab27e224013ed14a121ea86f6622c7b121ac5275c02fdc2163a16ed3",
+        "frames": 451
+      },
+      {
+        "sequence": "test6_DJI_0103_3",
+        "prediction_sha256": "9aa345607fd4ee448af00213e07488c1e11c4c9dcc9f76dc80619ef0c6bcc546",
+        "gt_sha256": "d7a626c07d3be69cff86226ac6b7a8200bdcf77238d9a4739ae93c43e69691e8",
+        "frames": 103
+      },
+      {
+        "sequence": "test6_DJI_0103_4",
+        "prediction_sha256": "752de82aa420c3ec13fc831c604ef767480ccad87e9d5bad52fb26326b3904bb",
+        "gt_sha256": "bcacac0e1f7fab4cc55952e2beea1c048f5b1bb9fde6f630c00118e2428b7afb",
+        "frames": 1566
+      },
+      {
+        "sequence": "test6_DJI_0103_5",
+        "prediction_sha256": "7edc35d9c3cceb7fc52b6e720cf0666fd17a9f675d4a8eff98c4bcfd34e367be",
+        "gt_sha256": "9a024cda5fa8640a93f7f5140ecd7c373143c6a3ef154b4c3d026836916b5407",
+        "frames": 1051
+      },
+      {
+        "sequence": "test7_DJI_0106_1",
+        "prediction_sha256": "f42138dc8d88fc2bc5f21c12dfcf8d1866cafaf1d85ab54f18fd6bf107a9086f",
+        "gt_sha256": "5e17aba399dd7500656b6e4420867d59dfdf12348924a088f9a1a96e5fdeaf56",
+        "frames": 768
+      },
+      {
+        "sequence": "test7_DJI_0106_2",
+        "prediction_sha256": "2d95fa7818c5b572cf8a2d4f33cb353f108fb7d6ad548a1690f79a4fb5f41e7a",
+        "gt_sha256": "534445014d91c36e5213f8a269e73a3dfcf0ea854858b0a486532b5627660926",
+        "frames": 243
+      },
+      {
+        "sequence": "test7_DJI_0106_3",
+        "prediction_sha256": "e03d135c6063c442656eead64e79dce3aa9b32e329f4f3785f8ad0110c83326a",
+        "gt_sha256": "bad9dbc52cda8b63b853cd37e044831c1799ef58a7b0989a05c69aa22f9d9143",
+        "frames": 446
+      },
+      {
+        "sequence": "test8_DJI_0107_1",
+        "prediction_sha256": "78f5f1a78321c6f4a1b38f3fa22b6098399109ca0ed000914fb1daacc4bd8282",
+        "gt_sha256": "6d85e3abdff7ba7654be0e538ccc07e937dc8bac3052be45d40b13032e615bea",
+        "frames": 1683
+      },
+      {
+        "sequence": "test8_DJI_0107_2",
+        "prediction_sha256": "0a886a285b5dc20d07797aa27aae0302f5a91eeed353eb5bd3548cfd8c4cc9ab",
+        "gt_sha256": "13bc5e3c91f2d46f7592b0658128b4cfcdbc23f9c09f7372dccc5ddc9b79e811",
+        "frames": 251
+      },
+      {
+        "sequence": "test8_DJI_0107_3",
+        "prediction_sha256": "587fd2949968c99c7535fb98b3610e5cd43d0b29e131827d6e550e468da61af8",
+        "gt_sha256": "902ce0f6f38b2dd304e2be5dc8754cae10803e00d6db58aec99240fb977802b7",
+        "frames": 459
+      },
+      {
+        "sequence": "test9_DJI_0192_1",
+        "prediction_sha256": "0b9a7657ece0a9c9c014746a941f38441f6b7b280268f39057ea879bb4027c9e",
+        "gt_sha256": "35e1cb09fb2481348fbeb6261cd5150d75c403123e83f1ac58ab23baf63d866e",
+        "frames": 171
+      },
+      {
+        "sequence": "test9_DJI_0192_2",
+        "prediction_sha256": "7ed81d913d82d4cf0b0e1e76546da6f52000bbbf38371ba5a3ee6cb996aba360",
+        "gt_sha256": "025053bf7c636713a7cdd800c81fa8b44e4f4a78b2fbb3c28f131ae6d94bd8c2",
+        "frames": 52
+      },
+      {
+        "sequence": "test9_DJI_0192_3",
+        "prediction_sha256": "1fdd2c2730fa18ca31d547146f32d0d1d98e5cbcff01795cf8062f07d1e7cfe3",
+        "gt_sha256": "ed3bf9b9667e89d4e4d9521a737c82770ab184a70a33ff8bd6a2e377370c848a",
+        "frames": 1001
+      },
+      {
+        "sequence": "test9_DJI_0192_4",
+        "prediction_sha256": "4cf164ad4f7e501bd1e13fc462444325d702cb33957897a417ec0aab7154af45",
+        "gt_sha256": "b259b57c8a825068b3a1e9afe1b52f23965d4aabccf8c5b407ad24a5ba7987f0",
+        "frames": 4521
+      },
+      {
+        "sequence": "test9_DJI_0192_5",
+        "prediction_sha256": "43e74709aef481ad04df3db80edac6f2239a612ddc74edbb6d34f395ff0f3241",
+        "gt_sha256": "3accd717b1e532540b3097bfa5398d21d61fd1c9b0c185d5d412e76e185f419e",
+        "frames": 1669
+      },
+      {
+        "sequence": "test10_jl_hbd_1",
+        "prediction_sha256": "e60b439550920ed1c45ce9dd70b2bd18b3a82a9ba9640b9896d8b2dd5987a561",
+        "gt_sha256": "5012f175926183c28e9ada2398fbd800d5b59ef09d4a2c0ba359e4083f6267bf",
+        "frames": 389
+      },
+      {
+        "sequence": "test10_jl_hbd_2",
+        "prediction_sha256": "94016c2e807294e966f0c3abca21e6b9c8b85c3f8d28b1f8d02dbc67a8800718",
+        "gt_sha256": "216b5dd1151740c41540224bec62a2776cf7d1c0bbcc3eb97a5eafac14342d17",
+        "frames": 137
+      },
+      {
+        "sequence": "test10_jl_hbd_3",
+        "prediction_sha256": "615b0a86344214fa46ae549a94e573161b6489a46673ffb791b62706fea82003",
+        "gt_sha256": "c8109ac8e92441a65775dccfe541879ebdf427b19e42e5ba3a4b5a297c98c57f",
+        "frames": 742
+      },
+      {
+        "sequence": "test10_jl_hbd_4",
+        "prediction_sha256": "22e20167b29a611743a52f25dc24bfb6602a7a419b0548af9e2bacf2d9840918",
+        "gt_sha256": "6ad5bf79829cf13bd7854e3a9838070949d5f86cdb058b7ff9e64edda28e3c22",
+        "frames": 287
+      },
+      {
+        "sequence": "test10_jl_hbd_5",
+        "prediction_sha256": "cb5fbe63f29392edf48ce0b90faaba30514c9035cd98cc342119067c18291b1b",
+        "gt_sha256": "ac43ee626c22d01da1255e25def3b6232498a6ef126327741d9a1529da7bfb48",
+        "frames": 309
+      },
+      {
+        "sequence": "test10_jl_hbd_6",
+        "prediction_sha256": "ae0177b0051b046f2f44200995518de1065e2a0e094dd78dac112c4c0b8a5374",
+        "gt_sha256": "6e79e593e1ea65de78f4305f1ca1e571c2c655a5b33181c7cf8666ea165ffea1",
+        "frames": 184
+      },
+      {
+        "sequence": "test10_jl_hbd_7",
+        "prediction_sha256": "2591a17dfbd4f9a4d1b3887de273da9f699a4246e7e9eec6569b8bfa87540a11",
+        "gt_sha256": "359808c6c81955586af9331e2182e0fb41f4ab8e670d8245d2cce38747b9fdd5",
+        "frames": 138
+      },
+      {
+        "sequence": "test10_jl_hbd_8",
+        "prediction_sha256": "c3317a621f58deadc9f53df3020c2f696d9fb977b9a0ebb6721cbbe1734e5a37",
+        "gt_sha256": "2cab18be6882e114fc62f094ccf06f4b8ceb4f4f658dbcd355d1477e1897e927",
+        "frames": 123
+      },
+      {
+        "sequence": "test10_jl_hbd_9",
+        "prediction_sha256": "3ba511b6cb452c812b5dca32bdc8dcea9a0981569a45cd72ceb02e6b7ff72adc",
+        "gt_sha256": "a7fb2801e6452d4f9cc32fb8e0289ca19e4e5dfbb99314a9e0c545754816a41c",
+        "frames": 341
+      },
+      {
+        "sequence": "test11_dj_1",
+        "prediction_sha256": "5c32a39eb330bdcfee21836db6099c4b6551af7c95aa11cc13b48af514c22c81",
+        "gt_sha256": "785aa95714029e9d0ca899e1302e6a7e3feaafb857bbe49ab55017673d2f7e39",
+        "frames": 260
+      },
+      {
+        "sequence": "test11_dj_2",
+        "prediction_sha256": "de2a70a8c8e5021f19f07eb762bdbc7a46fbd50948b566c2bd6083523761186c",
+        "gt_sha256": "8f0f9904f8cde5a5ed6ac56e300705d052b3939d903b1bb9bc1ba3c061cd62c7",
+        "frames": 625
+      },
+      {
+        "sequence": "test11_dj_3",
+        "prediction_sha256": "c99e67b96006d422fce34e3fba7ab38eb3b60cb007f04c526f079704212ac02a",
+        "gt_sha256": "0b14415ab7b3985c412050ef1fafad69e4d4586169559f5357b05135805e4bd4",
+        "frames": 215
+      },
+      {
+        "sequence": "test11_dj_4",
+        "prediction_sha256": "e3ceedb5e0cf149ee42ad590ccdfc9a3724c83662aa914e3e2d8d192f48eaf4e",
+        "gt_sha256": "f53ec1d3e56fb6ff56490604258bae812fc8bbfeeb939462e571cc2497e27fdf",
+        "frames": 564
+      }
+    ]
+  },
+  {
+    "dataset": "UAV2UAV",
+    "method": "UETrack-B",
+    "source_prediction_collection": "uetrack_base_uav2uav2_full49",
+    "sequences": [
+      {
+        "sequence": "test1_DJI_0081_1",
+        "prediction_sha256": "c8dd48ed01312c6f10b6cfcdfa56cc0ee984c78b079d874b7ca31428156f53fe",
+        "gt_sha256": "6230263df713f86ecbd008320da1d326a3dacf819bd654e2f9303f836ea7e11b",
+        "frames": 217
+      },
+      {
+        "sequence": "test1_DJI_0081_2",
+        "prediction_sha256": "b6b57d8e457ad25787d0970116ec54cca0f02ad4388409302cbc63545573fc48",
+        "gt_sha256": "1ca5c479f05eed7dab7173f82be7779bc493f775e622940deff62f7e42a655e4",
+        "frames": 729
+      },
+      {
+        "sequence": "test1_DJI_0081_3",
+        "prediction_sha256": "57c7665b54e7934ddef5d2dbe8178bc498ea3251f6223e12f9f5cdf3c734195d",
+        "gt_sha256": "a58d2cbbdcc0a1877f133eaab15fc1eee7b03bfb3231b72e163cb4b31e615928",
+        "frames": 129
+      },
+      {
+        "sequence": "test1_DJI_0081_4",
+        "prediction_sha256": "9c4d401ccfe387f2d62cc1ae51b139d1e98c2462217f871ac5687d03e540a846",
+        "gt_sha256": "cb093db3ffe866c27ccab03993a796ee08b17c2bd6eeada46126b4d9721f627c",
+        "frames": 314
+      },
+      {
+        "sequence": "test3_DJI_0087_1",
+        "prediction_sha256": "082e8b4e9e9eef405819a99694accee1cc1cef25504d3b37c8c7e2b9e0050edd",
+        "gt_sha256": "8d19ee4eb8d5ffd349815acebfb004d327d7f81f1735361855ad62c58c9b60f6",
+        "frames": 400
+      },
+      {
+        "sequence": "test3_DJI_0087_2",
+        "prediction_sha256": "76fc145e0c5319c7111f65d65d901b19d433c32a374939e92ac0d41933b26710",
+        "gt_sha256": "4ed3afd70d33b3589c1d78a1a2ef15f2fa3ac97a8d3067637394f1b51ee93517",
+        "frames": 319
+      },
+      {
+        "sequence": "test3_DJI_0087_3",
+        "prediction_sha256": "5a580a12e412d7b9a434e5427621f1a9a58da01baf1eb1029a7c1f72703f23a1",
+        "gt_sha256": "2a82e2e7946b2cbde97cd7003494306d0ef5be02ea50d03d60a60c53553fb2c0",
+        "frames": 165
+      },
+      {
+        "sequence": "test3_DJI_0087_4",
+        "prediction_sha256": "ed7e15363af1935cb97d2dfae8582718d5c7341c78f70b421d60283bf85dc528",
+        "gt_sha256": "373b7ca95f829ebdb89dd8232e59d77748be86f093d510e89c34abc14287acf9",
+        "frames": 200
+      },
+      {
+        "sequence": "test3_DJI_0087_5",
+        "prediction_sha256": "53d143795edc5b993974f1be4475a187c623f7d6dc5978abb28797ad8f47b4bf",
+        "gt_sha256": "ba3cd8a3f02e00c6e69eba2570ae97a8eb4f2552fd0cf9c6914778467949a0b7",
+        "frames": 302
+      },
+      {
+        "sequence": "test3_DJI_0087_6",
+        "prediction_sha256": "47a494f60aa2c0d5eead3bead7ba45e2b3fa247ee97b23613ae21be26ea879e4",
+        "gt_sha256": "318ff5dd14f57218d70966388ca22ee29cf76532f6e5f5376598b597e9d90982",
+        "frames": 516
+      },
+      {
+        "sequence": "test3_DJI_0087_7",
+        "prediction_sha256": "a9bb3b01216c96a134a0e99b30f4d204bb8121e8c22c7de7044ab456faa9c294",
+        "gt_sha256": "4f5fea2c71c613779f1c7074f8e560880d884ad322ec682e0f93e5e0f652deb9",
+        "frames": 159
+      },
+      {
+        "sequence": "test3_DJI_0087_8",
+        "prediction_sha256": "16d42b3a89c41323540cedd98a2d05a4feda421470c971fbeb00ec4a95b5434d",
+        "gt_sha256": "5956beb3a00dcaaa725a37693fb31f096bf94209cacfc768017017266b12e5ed",
+        "frames": 211
+      },
+      {
+        "sequence": "test4_DJI_0101_1",
+        "prediction_sha256": "f8533f05129eb695655487b4635e1aaa1239b5b94f399376aadd27181efaf418",
+        "gt_sha256": "1b03afcae953d5fbb0fe4138a51817b9f633e3ab7e459c8c97ebfe657809add9",
+        "frames": 986
+      },
+      {
+        "sequence": "test4_DJI_0101_2",
+        "prediction_sha256": "631e55ea4f7ce81e09f770bacd69bcbae91b8510a059d0c260c931c7eb28f9e9",
+        "gt_sha256": "14d691222db78e1caafa79c0194ea37eadbd477428775a25a23efc818a92d199",
+        "frames": 556
+      },
+      {
+        "sequence": "test4_DJI_0101_3",
+        "prediction_sha256": "55d2740d71dec3608aa6f7997b0689371175eb1c64c87798ca8649beb34d14f7",
+        "gt_sha256": "b737d5c743cd336bf5469deba3dc4588c841494ac3fd36ef0a12e305ef154ec5",
+        "frames": 248
+      },
+      {
+        "sequence": "test4_DJI_0101_4",
+        "prediction_sha256": "b2d615d50b6ce6d51391d525d18e74589c91fed1957f4edf9961c13f2f530985",
+        "gt_sha256": "3a707a35332904a72829e1da8bd5d52c129468cdd96a633e8b88060b12481fbc",
+        "frames": 836
+      },
+      {
+        "sequence": "test5_DJI_0102_1",
+        "prediction_sha256": "1bfea6865876b2d9d13a5ae346ca158d4b092b81059e3f91b043612e8ed8554c",
+        "gt_sha256": "c07d02770006ef2eb6e7bba7fdde4f235a56dbeb41e978f4572abaa4948ceb18",
+        "frames": 60
+      },
+      {
+        "sequence": "test5_DJI_0102_2",
+        "prediction_sha256": "95f56d2ac920b2d82af496ad1fd1c3978710aa62e8111fd7652e592bbb3fd8f2",
+        "gt_sha256": "27bbdcdfd84539c7d2cba9e5fb0db8c57b85c35181c0e046653c64f3994e2691",
+        "frames": 306
+      },
+      {
+        "sequence": "test5_DJI_0102_3",
+        "prediction_sha256": "913df000e333fe7a224f99fbefc33c5578e9623ff4572cece16ad6d2a2267b75",
+        "gt_sha256": "48590cb00a6d0b55665436591993e3cf9bd6812594d15b4c8601672360fe10f3",
+        "frames": 217
+      },
+      {
+        "sequence": "test5_DJI_0102_4",
+        "prediction_sha256": "6faaddb35486fb18fbdb57b9abf7c36aa923c8953bb0c3c139d72a13d6917f6a",
+        "gt_sha256": "4238a2f98229cdf27043307b4408e2f5bbb53007eaf10038598c6ee22bab3ac8",
+        "frames": 676
+      },
+      {
+        "sequence": "test6_DJI_0103_1",
+        "prediction_sha256": "026ec78bbe88847e4da47b7b2dda885d3ded812ccb45c7320a0cd3e525b3fb30",
+        "gt_sha256": "d02046be2657b215188de4a513e2ca219a452cc345d65ae6341677153548dbb6",
+        "frames": 1544
+      },
+      {
+        "sequence": "test6_DJI_0103_2",
+        "prediction_sha256": "94b805e4563535c3db1c35bfaeee00fe64b2eeddedab2c486d49f37d9211e9b3",
+        "gt_sha256": "abf51756ab27e224013ed14a121ea86f6622c7b121ac5275c02fdc2163a16ed3",
+        "frames": 451
+      },
+      {
+        "sequence": "test6_DJI_0103_3",
+        "prediction_sha256": "fd3ced29763643994518d6bbaec32ffe7ea4ee6846f6a86534008636b6fdee25",
+        "gt_sha256": "d7a626c07d3be69cff86226ac6b7a8200bdcf77238d9a4739ae93c43e69691e8",
+        "frames": 103
+      },
+      {
+        "sequence": "test6_DJI_0103_4",
+        "prediction_sha256": "e3e3b894af29380d8c5fcaea1143c83f777fbf5fca31325f27a9e3b05adedf77",
+        "gt_sha256": "bcacac0e1f7fab4cc55952e2beea1c048f5b1bb9fde6f630c00118e2428b7afb",
+        "frames": 1566
+      },
+      {
+        "sequence": "test6_DJI_0103_5",
+        "prediction_sha256": "748d7bc181a83039242cb81898dad164ba70ffa13b916ae674a3fef93d47015b",
+        "gt_sha256": "9a024cda5fa8640a93f7f5140ecd7c373143c6a3ef154b4c3d026836916b5407",
+        "frames": 1051
+      },
+      {
+        "sequence": "test7_DJI_0106_1",
+        "prediction_sha256": "7688ce953abff35dc831cea1a567ad1b4e87350c9cb948050651d7148d00adc1",
+        "gt_sha256": "5e17aba399dd7500656b6e4420867d59dfdf12348924a088f9a1a96e5fdeaf56",
+        "frames": 768
+      },
+      {
+        "sequence": "test7_DJI_0106_2",
+        "prediction_sha256": "cd6d203a5836d6da06611854b0d40b607b9997bd186d78e70d4f688921b340cb",
+        "gt_sha256": "534445014d91c36e5213f8a269e73a3dfcf0ea854858b0a486532b5627660926",
+        "frames": 243
+      },
+      {
+        "sequence": "test7_DJI_0106_3",
+        "prediction_sha256": "8a252f99cbf3087e6e16a034de7d65f568776718dd735161489c37caa2f8a158",
+        "gt_sha256": "bad9dbc52cda8b63b853cd37e044831c1799ef58a7b0989a05c69aa22f9d9143",
+        "frames": 446
+      },
+      {
+        "sequence": "test8_DJI_0107_1",
+        "prediction_sha256": "90e10fe5b6ea35bae69dda06366f22c9b6f25f1a695956e99c79ab1917dd8b8e",
+        "gt_sha256": "6d85e3abdff7ba7654be0e538ccc07e937dc8bac3052be45d40b13032e615bea",
+        "frames": 1683
+      },
+      {
+        "sequence": "test8_DJI_0107_2",
+        "prediction_sha256": "2b122854fd114d35e1ca541c9a2ed6f628f01791a9db07b1bf9b2dd0b289686f",
+        "gt_sha256": "13bc5e3c91f2d46f7592b0658128b4cfcdbc23f9c09f7372dccc5ddc9b79e811",
+        "frames": 251
+      },
+      {
+        "sequence": "test8_DJI_0107_3",
+        "prediction_sha256": "60666cced4aeed93bcbbac6fb5d80757912149ecad88616dc3bf1ad4adba373c",
+        "gt_sha256": "902ce0f6f38b2dd304e2be5dc8754cae10803e00d6db58aec99240fb977802b7",
+        "frames": 459
+      },
+      {
+        "sequence": "test9_DJI_0192_1",
+        "prediction_sha256": "5d33684193b2eea0bee42882df4d345436014f8408206caac4d0cf0b2154037c",
+        "gt_sha256": "35e1cb09fb2481348fbeb6261cd5150d75c403123e83f1ac58ab23baf63d866e",
+        "frames": 171
+      },
+      {
+        "sequence": "test9_DJI_0192_2",
+        "prediction_sha256": "54a7d67a05a01edd21bcf34ff81ebe56ce845e8a4dc07045587946eb136fea2a",
+        "gt_sha256": "025053bf7c636713a7cdd800c81fa8b44e4f4a78b2fbb3c28f131ae6d94bd8c2",
+        "frames": 52
+      },
+      {
+        "sequence": "test9_DJI_0192_3",
+        "prediction_sha256": "de24428fbb4b92357695f59a5d39da2f5c165a5351cbdc425ad9b507bb2530d4",
+        "gt_sha256": "ed3bf9b9667e89d4e4d9521a737c82770ab184a70a33ff8bd6a2e377370c848a",
+        "frames": 1001
+      },
+      {
+        "sequence": "test9_DJI_0192_4",
+        "prediction_sha256": "7dca157470d7d12ddc8d8b41bdeb6494ccb9218bbe9533b82c9eb6ff10ec5769",
+        "gt_sha256": "b259b57c8a825068b3a1e9afe1b52f23965d4aabccf8c5b407ad24a5ba7987f0",
+        "frames": 4521
+      },
+      {
+        "sequence": "test9_DJI_0192_5",
+        "prediction_sha256": "e5a5ef914182064caeb9a1eb36034f0ce3f4ca476db75f32dfcfa8c11bc20827",
+        "gt_sha256": "3accd717b1e532540b3097bfa5398d21d61fd1c9b0c185d5d412e76e185f419e",
+        "frames": 1669
+      },
+      {
+        "sequence": "test10_jl_hbd_1",
+        "prediction_sha256": "012602aea270a72dae7a72b9788270cea67334c47f4a030e0de52a1e5ba68e97",
+        "gt_sha256": "5012f175926183c28e9ada2398fbd800d5b59ef09d4a2c0ba359e4083f6267bf",
+        "frames": 389
+      },
+      {
+        "sequence": "test10_jl_hbd_2",
+        "prediction_sha256": "7b08afadc8735947118298ad723a13e2efcb820775e524ac5a35064e2e58425e",
+        "gt_sha256": "216b5dd1151740c41540224bec62a2776cf7d1c0bbcc3eb97a5eafac14342d17",
+        "frames": 137
+      },
+      {
+        "sequence": "test10_jl_hbd_3",
+        "prediction_sha256": "1e25f65a93b02c6618bc5dd392d0741d9e71d231f60af7d5c495556b1fd6050f",
+        "gt_sha256": "c8109ac8e92441a65775dccfe541879ebdf427b19e42e5ba3a4b5a297c98c57f",
+        "frames": 742
+      },
+      {
+        "sequence": "test10_jl_hbd_4",
+        "prediction_sha256": "a0b7bae2cd0e3ae0aa6d3f867689d30f2af0e1a9e6e1d658d0e6bd7ef9c13bcf",
+        "gt_sha256": "6ad5bf79829cf13bd7854e3a9838070949d5f86cdb058b7ff9e64edda28e3c22",
+        "frames": 287
+      },
+      {
+        "sequence": "test10_jl_hbd_5",
+        "prediction_sha256": "8dbe07beb7689edeaed59a1db06070e51b72a22382e7eb2437781cb8e39ad26c",
+        "gt_sha256": "ac43ee626c22d01da1255e25def3b6232498a6ef126327741d9a1529da7bfb48",
+        "frames": 309
+      },
+      {
+        "sequence": "test10_jl_hbd_6",
+        "prediction_sha256": "a15534eb63fcc4b11be45ac6359fc933fe5dfb4c7ece369816a95506f4fe4b8d",
+        "gt_sha256": "6e79e593e1ea65de78f4305f1ca1e571c2c655a5b33181c7cf8666ea165ffea1",
+        "frames": 184
+      },
+      {
+        "sequence": "test10_jl_hbd_7",
+        "prediction_sha256": "a9078e7947eaa5dcd15304b09131d660341ea6499716795fe28f1f26c896da4e",
+        "gt_sha256": "359808c6c81955586af9331e2182e0fb41f4ab8e670d8245d2cce38747b9fdd5",
+        "frames": 138
+      },
+      {
+        "sequence": "test10_jl_hbd_8",
+        "prediction_sha256": "dd56b8fbf6c06617ec38a9ab3b34697b1f622951a75b0b4a9af76f50fe9cab53",
+        "gt_sha256": "2cab18be6882e114fc62f094ccf06f4b8ceb4f4f658dbcd355d1477e1897e927",
+        "frames": 123
+      },
+      {
+        "sequence": "test10_jl_hbd_9",
+        "prediction_sha256": "08015aab1808d60c963a670b32dbeffb03e7a7c0a0173638774c36ca50d74f3a",
+        "gt_sha256": "a7fb2801e6452d4f9cc32fb8e0289ca19e4e5dfbb99314a9e0c545754816a41c",
+        "frames": 341
+      },
+      {
+        "sequence": "test11_dj_1",
+        "prediction_sha256": "07129427bec52be3562d95e6f1fb0b946cec4febb2d6843b6342f23a31182e0d",
+        "gt_sha256": "785aa95714029e9d0ca899e1302e6a7e3feaafb857bbe49ab55017673d2f7e39",
+        "frames": 260
+      },
+      {
+        "sequence": "test11_dj_2",
+        "prediction_sha256": "a11edfcaab579be57252d9aca09a0876fd4ad884ab83288997bad8b76dc528f5",
+        "gt_sha256": "8f0f9904f8cde5a5ed6ac56e300705d052b3939d903b1bb9bc1ba3c061cd62c7",
+        "frames": 625
+      },
+      {
+        "sequence": "test11_dj_3",
+        "prediction_sha256": "9c696a104609e7fe24707433e01204ee2a5fc48997b3619199bb46c261575fc9",
+        "gt_sha256": "0b14415ab7b3985c412050ef1fafad69e4d4586169559f5357b05135805e4bd4",
+        "frames": 215
+      },
+      {
+        "sequence": "test11_dj_4",
+        "prediction_sha256": "c55ed5cea5c5077037185c21e5951d8db7c8e731351dbc097ccc365c8ad16394",
+        "gt_sha256": "f53ec1d3e56fb6ff56490604258bae812fc8bbfeeb939462e571cc2497e27fdf",
+        "frames": 564
+      }
+    ]
+  },
+  {
+    "dataset": "A2A",
+    "method": "SUTrack-B224",
+    "source_prediction_collection": "sutrack_b224_a2a_all23",
+    "sequences": [
+      {
+        "sequence": "video01",
+        "prediction_sha256": "2be0912a0971f9644a1491a53c0b31e9a9243724bf428fe189c4c210b084e8c9",
+        "gt_sha256": "9648e86fcf0653117a621ce506a893a38ad63bad78192f53a3136133391c1159",
+        "frames": 2635
+      },
+      {
+        "sequence": "video02",
+        "prediction_sha256": "27b73c59764649f23812c436614ed9fe2b762cf7d4e402baebbc396979bf7a89",
+        "gt_sha256": "0616e4101850a4d4549b476fe290faf2e612ee66c347e2bddca95087936cc4e7",
+        "frames": 1935
+      },
+      {
+        "sequence": "video03",
+        "prediction_sha256": "e63d4207004f9560fa741d1e3b7452178e19bfb999e7feb5a57afd6eaca4442a",
+        "gt_sha256": "117179c356e0325cd8b9c3159c2cf28965c7da00a238926fb0b346fb8f930557",
+        "frames": 503
+      },
+      {
+        "sequence": "video04",
+        "prediction_sha256": "de9af992cc001a898f2a901057899a188a255012efa529482286cab00de597ce",
+        "gt_sha256": "6018a4f0fcdcc7b8dc9771b4eea7aab24e544bf99e72a81cfecfc860282e1f4e",
+        "frames": 398
+      },
+      {
+        "sequence": "video05",
+        "prediction_sha256": "8ef79c689995b1da181e802c5e62c6f598663c39376c043fcefeba40ec5127bb",
+        "gt_sha256": "a5699a8237ccd0b38957ae52828fe8d55077e63fd8fa44267a870d0b4061c391",
+        "frames": 2457
+      },
+      {
+        "sequence": "video06",
+        "prediction_sha256": "cc7ef4910870f2df252f3085129a51535cfebc2fc9760db97758886fe6028d64",
+        "gt_sha256": "72b76fff9aa37d38408f279bac57aec70daec7e239f57a93cf22845eceec0242",
+        "frames": 422
+      },
+      {
+        "sequence": "video07",
+        "prediction_sha256": "be1eac0fe86c727a213b0a5fe4aa1efb37172d2bbe4ee7d7bd10cf2b01cbf355",
+        "gt_sha256": "2fca63ed664dcf2e550e9a8ac0c1479399ad09afc24a2001a7d895f582bc73c9",
+        "frames": 1611
+      },
+      {
+        "sequence": "video08",
+        "prediction_sha256": "3c4df0d6f272c5c6d3bfee91858bee958467363f7185643cd91f70fd86202b3a",
+        "gt_sha256": "1aceccddbb43f267696ec6efc0f87452eed4615b5d96a0bb212a54363ed10d7e",
+        "frames": 2249
+      },
+      {
+        "sequence": "video09",
+        "prediction_sha256": "567d5df258ba5f1bff0f7c375f004313de94f19ca0853b6ddff9d8553a9c5ee3",
+        "gt_sha256": "9e58ef6252118ecbe1deaf010008d5536396c768e502e9ea9c37f2784d2a56d6",
+        "frames": 1273
+      },
+      {
+        "sequence": "video10",
+        "prediction_sha256": "bb842074f860fbb163850f7d9f6d6cd96f5267dbdb446ec9faff59d84d927bba",
+        "gt_sha256": "5ad7118777eba2c388ffc8c241a868d4919d451c59d2c4d7cbc87c29a94f5270",
+        "frames": 1177
+      },
+      {
+        "sequence": "video11",
+        "prediction_sha256": "4820d770f0487fc1272b9948d51644ae0078dfb8ea6b64b0270d0f05f4bd38f4",
+        "gt_sha256": "4a0378d45a2490a701dc92f5c7e545632f09d1f5a575e4436ac4d284a8791c55",
+        "frames": 2687
+      },
+      {
+        "sequence": "video12",
+        "prediction_sha256": "cc0027539f8384d77e307c52515e276c1223953ff9d70230016959c86d8ab92c",
+        "gt_sha256": "673534d07c93f52edf4c748144d0e7aa384d2acfe1e5ce8a4f559f7b6ce1f1f4",
+        "frames": 504
+      },
+      {
+        "sequence": "video13",
+        "prediction_sha256": "c25fd9b194a28bf5f4b0bdd2d27421fb7a8d6b1dddf6646b6780603fa2135fe6",
+        "gt_sha256": "ae06f2be44e8dd7ac71963e8e15ef0e9a8416ae5fbb25ae3ed180cd4e74d3500",
+        "frames": 570
+      },
+      {
+        "sequence": "video14",
+        "prediction_sha256": "d4e9b778466744d8edfc0990852bc911b7cbd6f8d4f3cee5d2aa337f90d9a3cd",
+        "gt_sha256": "9f472752df2666548ffb5503c47aaccf48984a349f29bf5dbfdcfe89d98e64a6",
+        "frames": 1383
+      },
+      {
+        "sequence": "video15",
+        "prediction_sha256": "110a1c2cb27a93268c95d0dfe5b784db30200c303384cb62394e310015e2fffa",
+        "gt_sha256": "a68d9341881ddd07cf3a39b8ba19d54973ae97956096c5c8647e656269a4516c",
+        "frames": 1559
+      },
+      {
+        "sequence": "video16",
+        "prediction_sha256": "9c33fd61973cf28c9f295433a1f3ad7a0ab21ed28f2e02f04114973b473283c1",
+        "gt_sha256": "fd878a9c111f48870fa0ee603341e9cbf84f26b3e1cd6b41053701968cdc1818",
+        "frames": 1158
+      },
+      {
+        "sequence": "video17",
+        "prediction_sha256": "502a30db02e595bc5d1662ecdcc3e748987fa0b575c43847849617f9ff57f5e5",
+        "gt_sha256": "9dba239e64c647464c68a3c90cb577d77f47fa54c66f03637a32d3dd43e004ca",
+        "frames": 1819
+      },
+      {
+        "sequence": "video18",
+        "prediction_sha256": "4fc005b6ac225a22c29221ccfae4c2234fd1c049f826fa041604697cb6fe5742",
+        "gt_sha256": "da9553c54b255d3cd995a220c0f5e77e0937a5d018176d18e11f09c30a3b8e59",
+        "frames": 1681
+      },
+      {
+        "sequence": "video19",
+        "prediction_sha256": "3d61c0326ac110bae9c3c417d10002fa033eae28a03af938e1621ff07cd4ea67",
+        "gt_sha256": "4c68a654ce79a5669b7fd8509a086bf088e0fc1bb2653204711444291898046b",
+        "frames": 1623
+      },
+      {
+        "sequence": "video20",
+        "prediction_sha256": "f3bb26c083a093ffb929d0769f5bd0ac5c758e084ec23a975f2e2d0a7f4d7031",
+        "gt_sha256": "8b5aaa848b47c4346ea79c4a3e2de27e53b49308265c61da8914c9f48ecec26d",
+        "frames": 4384
+      },
+      {
+        "sequence": "video21",
+        "prediction_sha256": "c5ae997dec47ecf793f70a007bab549eab7ff202e4fcd9b7627ab745b782e13a",
+        "gt_sha256": "bf23db6f2efeb652428a9f05bf6ecd40a375c0fe5338f67073cd302f97b83b35",
+        "frames": 834
+      },
+      {
+        "sequence": "video22",
+        "prediction_sha256": "e718d46fa6934aada2431db991708b1a2f71be5ffb7247c376690ec242af1ed9",
+        "gt_sha256": "995626c16f213262b7055b7082d0cb2968011d2c1415f20daf29a28a29fea758",
+        "frames": 1285
+      },
+      {
+        "sequence": "video23",
+        "prediction_sha256": "461b4b867ddc73f53bb5291e91820bec15a07a11c64782695a5e232aec186525",
+        "gt_sha256": "2f1c0df3d4d8832870ef055179be33b7bb81dd1bc38bc86f8d4ec7fc63ef6b6c",
+        "frames": 1109
+      }
+    ]
+  },
+  {
+    "dataset": "A2A",
+    "method": "SafeCL-IMMTrack",
+    "source_prediction_collection": "safecl_imm_sutrack_a2a_all23",
+    "sequences": [
+      {
+        "sequence": "video01",
+        "prediction_sha256": "9448e1aeb6a2a639fda4f03fa4bd99c73ade2b885d9f919009a697cad59fc50a",
+        "gt_sha256": "9648e86fcf0653117a621ce506a893a38ad63bad78192f53a3136133391c1159",
+        "frames": 2635
+      },
+      {
+        "sequence": "video02",
+        "prediction_sha256": "a2947d275741f24be743a450c63af0c7e10afe4c440d7bf882f7573320c1869c",
+        "gt_sha256": "0616e4101850a4d4549b476fe290faf2e612ee66c347e2bddca95087936cc4e7",
+        "frames": 1935
+      },
+      {
+        "sequence": "video03",
+        "prediction_sha256": "1528ffae49c73d006cdea8f6c583e4080a56b35c0555b923736ee7ea04012375",
+        "gt_sha256": "117179c356e0325cd8b9c3159c2cf28965c7da00a238926fb0b346fb8f930557",
+        "frames": 503
+      },
+      {
+        "sequence": "video04",
+        "prediction_sha256": "1dc628477f6df07327deccbc47c424647d2c2e1389ac92c19c88b7ab71cb5dc6",
+        "gt_sha256": "6018a4f0fcdcc7b8dc9771b4eea7aab24e544bf99e72a81cfecfc860282e1f4e",
+        "frames": 398
+      },
+      {
+        "sequence": "video05",
+        "prediction_sha256": "11d13e2ef22267d5d9d26f2bf353e54a83201c2a5998d77b0281295eee91bf73",
+        "gt_sha256": "a5699a8237ccd0b38957ae52828fe8d55077e63fd8fa44267a870d0b4061c391",
+        "frames": 2457
+      },
+      {
+        "sequence": "video06",
+        "prediction_sha256": "2088eb650def400ca80c07b31be7e18c81b9b60fd505c2c408cb755fab0e4981",
+        "gt_sha256": "72b76fff9aa37d38408f279bac57aec70daec7e239f57a93cf22845eceec0242",
+        "frames": 422
+      },
+      {
+        "sequence": "video07",
+        "prediction_sha256": "4ebd17e60fd06e8eded8b0851b620f46836c438ad5a6977530c26869dd732b68",
+        "gt_sha256": "2fca63ed664dcf2e550e9a8ac0c1479399ad09afc24a2001a7d895f582bc73c9",
+        "frames": 1611
+      },
+      {
+        "sequence": "video08",
+        "prediction_sha256": "de452aa1957c53c0f4c9caed131d7c34054666fbd2bb13e1a42032d4fbebb40e",
+        "gt_sha256": "1aceccddbb43f267696ec6efc0f87452eed4615b5d96a0bb212a54363ed10d7e",
+        "frames": 2249
+      },
+      {
+        "sequence": "video09",
+        "prediction_sha256": "13560a8d39481b91d4ac1a33835936f7754276bd944a2d6efe35d098a1fbd5b0",
+        "gt_sha256": "9e58ef6252118ecbe1deaf010008d5536396c768e502e9ea9c37f2784d2a56d6",
+        "frames": 1273
+      },
+      {
+        "sequence": "video10",
+        "prediction_sha256": "774ef3b40dcdecbc2aeed95dd879d9db4131d2147239b4e641579c096c3caf51",
+        "gt_sha256": "5ad7118777eba2c388ffc8c241a868d4919d451c59d2c4d7cbc87c29a94f5270",
+        "frames": 1177
+      },
+      {
+        "sequence": "video11",
+        "prediction_sha256": "156b825cbe7482d98c306cb356c56860e651633a3b9c643c005232cc35ff806f",
+        "gt_sha256": "4a0378d45a2490a701dc92f5c7e545632f09d1f5a575e4436ac4d284a8791c55",
+        "frames": 2687
+      },
+      {
+        "sequence": "video12",
+        "prediction_sha256": "5c74673345e80259383eb362c382537c271b41d7e8166b9681b46f1c363a3c09",
+        "gt_sha256": "673534d07c93f52edf4c748144d0e7aa384d2acfe1e5ce8a4f559f7b6ce1f1f4",
+        "frames": 504
+      },
+      {
+        "sequence": "video13",
+        "prediction_sha256": "135960b26517024a506f21c20f950440cef11c2bb38874b844f7a6e83681ee67",
+        "gt_sha256": "ae06f2be44e8dd7ac71963e8e15ef0e9a8416ae5fbb25ae3ed180cd4e74d3500",
+        "frames": 570
+      },
+      {
+        "sequence": "video14",
+        "prediction_sha256": "12a5fe7bf8d56751bd7c3988156d037dc4b20754c270d3b8da9c079ed9a6dcd6",
+        "gt_sha256": "9f472752df2666548ffb5503c47aaccf48984a349f29bf5dbfdcfe89d98e64a6",
+        "frames": 1383
+      },
+      {
+        "sequence": "video15",
+        "prediction_sha256": "80c20d6406784dba183dde1f9168dd79940c0e12ffec4d0f52de6867c453caa2",
+        "gt_sha256": "a68d9341881ddd07cf3a39b8ba19d54973ae97956096c5c8647e656269a4516c",
+        "frames": 1559
+      },
+      {
+        "sequence": "video16",
+        "prediction_sha256": "81d066209c2a173d56745107cfab8a0949ccd2d8ffc031ddd78d17bd505ad6f7",
+        "gt_sha256": "fd878a9c111f48870fa0ee603341e9cbf84f26b3e1cd6b41053701968cdc1818",
+        "frames": 1158
+      },
+      {
+        "sequence": "video17",
+        "prediction_sha256": "ed888f3d33171d0e51c5be4150fe2cb7e91402433ef2e54b3ed036e4e9583f46",
+        "gt_sha256": "9dba239e64c647464c68a3c90cb577d77f47fa54c66f03637a32d3dd43e004ca",
+        "frames": 1819
+      },
+      {
+        "sequence": "video18",
+        "prediction_sha256": "543f6f2db1d5f2ccdf870f4baadbbea9ecd2725d6c7962e4fd6c4d2766bda28b",
+        "gt_sha256": "da9553c54b255d3cd995a220c0f5e77e0937a5d018176d18e11f09c30a3b8e59",
+        "frames": 1681
+      },
+      {
+        "sequence": "video19",
+        "prediction_sha256": "852a50bb4fd0a4379f2f81e8a35d1a6a8fa6b009032565d92fb6fb301535063d",
+        "gt_sha256": "4c68a654ce79a5669b7fd8509a086bf088e0fc1bb2653204711444291898046b",
+        "frames": 1623
+      },
+      {
+        "sequence": "video20",
+        "prediction_sha256": "e1f4260b61bbe419c847a32baecfa41c3d31d16d5ca435e9c435715e5e99eae5",
+        "gt_sha256": "8b5aaa848b47c4346ea79c4a3e2de27e53b49308265c61da8914c9f48ecec26d",
+        "frames": 4384
+      },
+      {
+        "sequence": "video21",
+        "prediction_sha256": "774e232a63348a35832367919f57c0b81a1f6c5ba3363bceb622c28d296c1757",
+        "gt_sha256": "bf23db6f2efeb652428a9f05bf6ecd40a375c0fe5338f67073cd302f97b83b35",
+        "frames": 834
+      },
+      {
+        "sequence": "video22",
+        "prediction_sha256": "9edb79e413dd01cf7447d28a87dfacc8397f2c65278218ab8d0c3ce793677b46",
+        "gt_sha256": "995626c16f213262b7055b7082d0cb2968011d2c1415f20daf29a28a29fea758",
+        "frames": 1285
+      },
+      {
+        "sequence": "video23",
+        "prediction_sha256": "db1033bbdfafec493a4328494f0f438ac33d885682b64c3462ed41bc174c4fde",
+        "gt_sha256": "2f1c0df3d4d8832870ef055179be33b7bb81dd1bc38bc86f8d4ec7fc63ef6b6c",
+        "frames": 1109
+      }
+    ]
+  },
+  {
+    "dataset": "A2A",
+    "method": "RLSM-IMMTrack",
+    "source_prediction_collection": "rlsm_immtrack_a2a_all23",
+    "sequences": [
+      {
+        "sequence": "video01",
+        "prediction_sha256": "9448e1aeb6a2a639fda4f03fa4bd99c73ade2b885d9f919009a697cad59fc50a",
+        "gt_sha256": "9648e86fcf0653117a621ce506a893a38ad63bad78192f53a3136133391c1159",
+        "frames": 2635
+      },
+      {
+        "sequence": "video02",
+        "prediction_sha256": "a2947d275741f24be743a450c63af0c7e10afe4c440d7bf882f7573320c1869c",
+        "gt_sha256": "0616e4101850a4d4549b476fe290faf2e612ee66c347e2bddca95087936cc4e7",
+        "frames": 1935
+      },
+      {
+        "sequence": "video03",
+        "prediction_sha256": "1528ffae49c73d006cdea8f6c583e4080a56b35c0555b923736ee7ea04012375",
+        "gt_sha256": "117179c356e0325cd8b9c3159c2cf28965c7da00a238926fb0b346fb8f930557",
+        "frames": 503
+      },
+      {
+        "sequence": "video04",
+        "prediction_sha256": "1dc628477f6df07327deccbc47c424647d2c2e1389ac92c19c88b7ab71cb5dc6",
+        "gt_sha256": "6018a4f0fcdcc7b8dc9771b4eea7aab24e544bf99e72a81cfecfc860282e1f4e",
+        "frames": 398
+      },
+      {
+        "sequence": "video05",
+        "prediction_sha256": "fe15a0a33e38383798a374ce4bfbcaae15742bd9821204cdb270232e68bc836a",
+        "gt_sha256": "a5699a8237ccd0b38957ae52828fe8d55077e63fd8fa44267a870d0b4061c391",
+        "frames": 2457
+      },
+      {
+        "sequence": "video06",
+        "prediction_sha256": "2088eb650def400ca80c07b31be7e18c81b9b60fd505c2c408cb755fab0e4981",
+        "gt_sha256": "72b76fff9aa37d38408f279bac57aec70daec7e239f57a93cf22845eceec0242",
+        "frames": 422
+      },
+      {
+        "sequence": "video07",
+        "prediction_sha256": "afd265fb275709ef528ae6150cf7247fcc6bd831106b740073717a99970da0d4",
+        "gt_sha256": "2fca63ed664dcf2e550e9a8ac0c1479399ad09afc24a2001a7d895f582bc73c9",
+        "frames": 1611
+      },
+      {
+        "sequence": "video08",
+        "prediction_sha256": "de452aa1957c53c0f4c9caed131d7c34054666fbd2bb13e1a42032d4fbebb40e",
+        "gt_sha256": "1aceccddbb43f267696ec6efc0f87452eed4615b5d96a0bb212a54363ed10d7e",
+        "frames": 2249
+      },
+      {
+        "sequence": "video09",
+        "prediction_sha256": "13560a8d39481b91d4ac1a33835936f7754276bd944a2d6efe35d098a1fbd5b0",
+        "gt_sha256": "9e58ef6252118ecbe1deaf010008d5536396c768e502e9ea9c37f2784d2a56d6",
+        "frames": 1273
+      },
+      {
+        "sequence": "video10",
+        "prediction_sha256": "774ef3b40dcdecbc2aeed95dd879d9db4131d2147239b4e641579c096c3caf51",
+        "gt_sha256": "5ad7118777eba2c388ffc8c241a868d4919d451c59d2c4d7cbc87c29a94f5270",
+        "frames": 1177
+      },
+      {
+        "sequence": "video11",
+        "prediction_sha256": "156b825cbe7482d98c306cb356c56860e651633a3b9c643c005232cc35ff806f",
+        "gt_sha256": "4a0378d45a2490a701dc92f5c7e545632f09d1f5a575e4436ac4d284a8791c55",
+        "frames": 2687
+      },
+      {
+        "sequence": "video12",
+        "prediction_sha256": "5c74673345e80259383eb362c382537c271b41d7e8166b9681b46f1c363a3c09",
+        "gt_sha256": "673534d07c93f52edf4c748144d0e7aa384d2acfe1e5ce8a4f559f7b6ce1f1f4",
+        "frames": 504
+      },
+      {
+        "sequence": "video13",
+        "prediction_sha256": "135960b26517024a506f21c20f950440cef11c2bb38874b844f7a6e83681ee67",
+        "gt_sha256": "ae06f2be44e8dd7ac71963e8e15ef0e9a8416ae5fbb25ae3ed180cd4e74d3500",
+        "frames": 570
+      },
+      {
+        "sequence": "video14",
+        "prediction_sha256": "12a5fe7bf8d56751bd7c3988156d037dc4b20754c270d3b8da9c079ed9a6dcd6",
+        "gt_sha256": "9f472752df2666548ffb5503c47aaccf48984a349f29bf5dbfdcfe89d98e64a6",
+        "frames": 1383
+      },
+      {
+        "sequence": "video15",
+        "prediction_sha256": "80c20d6406784dba183dde1f9168dd79940c0e12ffec4d0f52de6867c453caa2",
+        "gt_sha256": "a68d9341881ddd07cf3a39b8ba19d54973ae97956096c5c8647e656269a4516c",
+        "frames": 1559
+      },
+      {
+        "sequence": "video16",
+        "prediction_sha256": "9f969971d1e9c1b3d591c5a0e4731cf8ee5f52c8c1972a20b6f61404d4822355",
+        "gt_sha256": "fd878a9c111f48870fa0ee603341e9cbf84f26b3e1cd6b41053701968cdc1818",
+        "frames": 1158
+      },
+      {
+        "sequence": "video17",
+        "prediction_sha256": "ed888f3d33171d0e51c5be4150fe2cb7e91402433ef2e54b3ed036e4e9583f46",
+        "gt_sha256": "9dba239e64c647464c68a3c90cb577d77f47fa54c66f03637a32d3dd43e004ca",
+        "frames": 1819
+      },
+      {
+        "sequence": "video18",
+        "prediction_sha256": "543f6f2db1d5f2ccdf870f4baadbbea9ecd2725d6c7962e4fd6c4d2766bda28b",
+        "gt_sha256": "da9553c54b255d3cd995a220c0f5e77e0937a5d018176d18e11f09c30a3b8e59",
+        "frames": 1681
+      },
+      {
+        "sequence": "video19",
+        "prediction_sha256": "25b9fe5f46cfda976b9e129e6aa85132425529032e4d6f2b4f2f810bb8fafdb9",
+        "gt_sha256": "4c68a654ce79a5669b7fd8509a086bf088e0fc1bb2653204711444291898046b",
+        "frames": 1623
+      },
+      {
+        "sequence": "video20",
+        "prediction_sha256": "a43f1bfc76f27ce6eb668d7fd3a8271c973c55e894b41c1de4b4eb73eb6b5530",
+        "gt_sha256": "8b5aaa848b47c4346ea79c4a3e2de27e53b49308265c61da8914c9f48ecec26d",
+        "frames": 4384
+      },
+      {
+        "sequence": "video21",
+        "prediction_sha256": "774e232a63348a35832367919f57c0b81a1f6c5ba3363bceb622c28d296c1757",
+        "gt_sha256": "bf23db6f2efeb652428a9f05bf6ecd40a375c0fe5338f67073cd302f97b83b35",
+        "frames": 834
+      },
+      {
+        "sequence": "video22",
+        "prediction_sha256": "77bc124cd0b3301651cff816d0aed2346904d30f047ddc82551d1f137063e655",
+        "gt_sha256": "995626c16f213262b7055b7082d0cb2968011d2c1415f20daf29a28a29fea758",
+        "frames": 1285
+      },
+      {
+        "sequence": "video23",
+        "prediction_sha256": "db1033bbdfafec493a4328494f0f438ac33d885682b64c3462ed41bc174c4fde",
+        "gt_sha256": "2f1c0df3d4d8832870ef055179be33b7bb81dd1bc38bc86f8d4ec7fc63ef6b6c",
+        "frames": 1109
+      }
+    ]
+  },
+  {
+    "dataset": "A2A",
+    "method": "ARTrackV2-B-256",
+    "source_prediction_collection": "artrackv2_b256_a2a_all23",
+    "sequences": [
+      {
+        "sequence": "video01",
+        "prediction_sha256": "33e96159cf353255bef7f98dea5896e48fd9f577ecacdb2c405c3b62a0ed0e23",
+        "gt_sha256": "9648e86fcf0653117a621ce506a893a38ad63bad78192f53a3136133391c1159",
+        "frames": 2635
+      },
+      {
+        "sequence": "video02",
+        "prediction_sha256": "51c584af77bc12f13f9abe89869177dab1651b8d7bb4dd95dd3c873ba0214d32",
+        "gt_sha256": "0616e4101850a4d4549b476fe290faf2e612ee66c347e2bddca95087936cc4e7",
+        "frames": 1935
+      },
+      {
+        "sequence": "video03",
+        "prediction_sha256": "726f88cd4a8b64c9d5c517d8c5440b97ea90426e3f049d8fed55a3fe4af12d99",
+        "gt_sha256": "117179c356e0325cd8b9c3159c2cf28965c7da00a238926fb0b346fb8f930557",
+        "frames": 503
+      },
+      {
+        "sequence": "video04",
+        "prediction_sha256": "985edb1b8a01cf3b340bb4861d0ff240972a9a74f432423358a339375ae2ed39",
+        "gt_sha256": "6018a4f0fcdcc7b8dc9771b4eea7aab24e544bf99e72a81cfecfc860282e1f4e",
+        "frames": 398
+      },
+      {
+        "sequence": "video05",
+        "prediction_sha256": "44427d5788ff2e50155c74eeec2550004aec4035d2da67552ee5019518154c4b",
+        "gt_sha256": "a5699a8237ccd0b38957ae52828fe8d55077e63fd8fa44267a870d0b4061c391",
+        "frames": 2457
+      },
+      {
+        "sequence": "video06",
+        "prediction_sha256": "090063844f7462baf8411e43c84e081c7b30fd103f90ec4b0b351aee14e671ed",
+        "gt_sha256": "72b76fff9aa37d38408f279bac57aec70daec7e239f57a93cf22845eceec0242",
+        "frames": 422
+      },
+      {
+        "sequence": "video07",
+        "prediction_sha256": "7996dce0ac72e54abc8a963aa52bbb7ff155cf57f078a7ed237e3b3672458aee",
+        "gt_sha256": "2fca63ed664dcf2e550e9a8ac0c1479399ad09afc24a2001a7d895f582bc73c9",
+        "frames": 1611
+      },
+      {
+        "sequence": "video08",
+        "prediction_sha256": "fc3f7f297610d3fe9dc76ce7d70293a1e274c31ffbbfdd01925af2fee78e014c",
+        "gt_sha256": "1aceccddbb43f267696ec6efc0f87452eed4615b5d96a0bb212a54363ed10d7e",
+        "frames": 2249
+      },
+      {
+        "sequence": "video09",
+        "prediction_sha256": "8ce1039ca13d2f11b782c9b71b05d6c29085fc6b332e0f1e71452788fc308404",
+        "gt_sha256": "9e58ef6252118ecbe1deaf010008d5536396c768e502e9ea9c37f2784d2a56d6",
+        "frames": 1273
+      },
+      {
+        "sequence": "video10",
+        "prediction_sha256": "6e4535530c5ff3742e48602bfae5dfff7822351e70e7a6b39b0e8c515ce1c1b4",
+        "gt_sha256": "5ad7118777eba2c388ffc8c241a868d4919d451c59d2c4d7cbc87c29a94f5270",
+        "frames": 1177
+      },
+      {
+        "sequence": "video11",
+        "prediction_sha256": "af70a93627d0006e43be0f83874d377a91b25687414de1d05f165abdddb30092",
+        "gt_sha256": "4a0378d45a2490a701dc92f5c7e545632f09d1f5a575e4436ac4d284a8791c55",
+        "frames": 2687
+      },
+      {
+        "sequence": "video12",
+        "prediction_sha256": "9315e36343f3ce4d25a05a07fa63cf2c1574d97299b5053c65e64c7a753feb04",
+        "gt_sha256": "673534d07c93f52edf4c748144d0e7aa384d2acfe1e5ce8a4f559f7b6ce1f1f4",
+        "frames": 504
+      },
+      {
+        "sequence": "video13",
+        "prediction_sha256": "68a542617e738359c2f3ff3c12ae1acdd516672e9c30369a93f6d13c606c06cc",
+        "gt_sha256": "ae06f2be44e8dd7ac71963e8e15ef0e9a8416ae5fbb25ae3ed180cd4e74d3500",
+        "frames": 570
+      },
+      {
+        "sequence": "video14",
+        "prediction_sha256": "d708999c820a656501820ae063993b2256f7486613b1ec618b87f1c2a2caa480",
+        "gt_sha256": "9f472752df2666548ffb5503c47aaccf48984a349f29bf5dbfdcfe89d98e64a6",
+        "frames": 1383
+      },
+      {
+        "sequence": "video15",
+        "prediction_sha256": "7fb554a902b1a65ab90a5827cf8bcda0dd5cd801903d8cd7e97e18d3b7db6e52",
+        "gt_sha256": "a68d9341881ddd07cf3a39b8ba19d54973ae97956096c5c8647e656269a4516c",
+        "frames": 1559
+      },
+      {
+        "sequence": "video16",
+        "prediction_sha256": "3aa115621101f7556a290dbae8ca465aa73b784e63da6f38ec37132d0a30fd79",
+        "gt_sha256": "fd878a9c111f48870fa0ee603341e9cbf84f26b3e1cd6b41053701968cdc1818",
+        "frames": 1158
+      },
+      {
+        "sequence": "video17",
+        "prediction_sha256": "ae6fbcf2a0141039f0dd92e3652ba91be00719c7a3865e0ad369f538d738520a",
+        "gt_sha256": "9dba239e64c647464c68a3c90cb577d77f47fa54c66f03637a32d3dd43e004ca",
+        "frames": 1819
+      },
+      {
+        "sequence": "video18",
+        "prediction_sha256": "b1ae8e06095d3c84299a5daa2d10d565f48122cb511dd07b33a88448a98c243c",
+        "gt_sha256": "da9553c54b255d3cd995a220c0f5e77e0937a5d018176d18e11f09c30a3b8e59",
+        "frames": 1681
+      },
+      {
+        "sequence": "video19",
+        "prediction_sha256": "9b4320009da9c4fd478619c2346c7beabad99b146b5994c735defb8e61da74fc",
+        "gt_sha256": "4c68a654ce79a5669b7fd8509a086bf088e0fc1bb2653204711444291898046b",
+        "frames": 1623
+      },
+      {
+        "sequence": "video20",
+        "prediction_sha256": "37d10e33847a268d0326cdbbb444c545b04010ec3d24f4ae9963a44bae620795",
+        "gt_sha256": "8b5aaa848b47c4346ea79c4a3e2de27e53b49308265c61da8914c9f48ecec26d",
+        "frames": 4384
+      },
+      {
+        "sequence": "video21",
+        "prediction_sha256": "971373dcc08e4ed8df543d83a2b26943781459a04ab30097927171a0f83e3e80",
+        "gt_sha256": "bf23db6f2efeb652428a9f05bf6ecd40a375c0fe5338f67073cd302f97b83b35",
+        "frames": 834
+      },
+      {
+        "sequence": "video22",
+        "prediction_sha256": "5a852e35d5a2da1b830a8d489b6acd7d1c5b709f7023cc964bb52bc102dc2f12",
+        "gt_sha256": "995626c16f213262b7055b7082d0cb2968011d2c1415f20daf29a28a29fea758",
+        "frames": 1285
+      },
+      {
+        "sequence": "video23",
+        "prediction_sha256": "e6ec8bc0d2c35be7be4c435e1b0d250be04f93da9da1a21593774499e60c2b56",
+        "gt_sha256": "2f1c0df3d4d8832870ef055179be33b7bb81dd1bc38bc86f8d4ec7fc63ef6b6c",
+        "frames": 1109
+      }
+    ]
+  },
+  {
+    "dataset": "A2A",
+    "method": "MCITrack-B224",
+    "source_prediction_collection": "mcitrack_b224_a2a_all23",
+    "sequences": [
+      {
+        "sequence": "video01",
+        "prediction_sha256": "ac5386821ce7532bd29d543eff93c62d7f273b1454cf62b3c0970440923b1423",
+        "gt_sha256": "9648e86fcf0653117a621ce506a893a38ad63bad78192f53a3136133391c1159",
+        "frames": 2635
+      },
+      {
+        "sequence": "video02",
+        "prediction_sha256": "6a15ef61a33d5c47b3f004a78d4e75eefea7e361f5a18b987352220223a25187",
+        "gt_sha256": "0616e4101850a4d4549b476fe290faf2e612ee66c347e2bddca95087936cc4e7",
+        "frames": 1935
+      },
+      {
+        "sequence": "video03",
+        "prediction_sha256": "980953a4a031b325fb7b0f2b4a403742617a8eb69e66831ec6f9c74ad2e4e52b",
+        "gt_sha256": "117179c356e0325cd8b9c3159c2cf28965c7da00a238926fb0b346fb8f930557",
+        "frames": 503
+      },
+      {
+        "sequence": "video04",
+        "prediction_sha256": "94af816e633a7c0d76960fa6d70d31cf5e8e5f3fb162ef309652ce11aae889a5",
+        "gt_sha256": "6018a4f0fcdcc7b8dc9771b4eea7aab24e544bf99e72a81cfecfc860282e1f4e",
+        "frames": 398
+      },
+      {
+        "sequence": "video05",
+        "prediction_sha256": "883ed23384c7a088ca30fc255ae9d08a97759cbb79294c9d3e98fa1c146c9311",
+        "gt_sha256": "a5699a8237ccd0b38957ae52828fe8d55077e63fd8fa44267a870d0b4061c391",
+        "frames": 2457
+      },
+      {
+        "sequence": "video06",
+        "prediction_sha256": "95012fe7fe76ca704e18ced49848e1d4f902bff3eba389c214cdc1677a26a7b5",
+        "gt_sha256": "72b76fff9aa37d38408f279bac57aec70daec7e239f57a93cf22845eceec0242",
+        "frames": 422
+      },
+      {
+        "sequence": "video07",
+        "prediction_sha256": "ee03c433bef76a48e43d41d181a02550d37c29839342cb09dc17abd74b1725b3",
+        "gt_sha256": "2fca63ed664dcf2e550e9a8ac0c1479399ad09afc24a2001a7d895f582bc73c9",
+        "frames": 1611
+      },
+      {
+        "sequence": "video08",
+        "prediction_sha256": "7c770483dcbe7fa4d256c43e4f3a9c5178acfd407484f0cbc5da6aee5d326833",
+        "gt_sha256": "1aceccddbb43f267696ec6efc0f87452eed4615b5d96a0bb212a54363ed10d7e",
+        "frames": 2249
+      },
+      {
+        "sequence": "video09",
+        "prediction_sha256": "4fe06eedfc64ed20a9dcec0c0595984a94d1a4004869b6d1d0488641cd093e12",
+        "gt_sha256": "9e58ef6252118ecbe1deaf010008d5536396c768e502e9ea9c37f2784d2a56d6",
+        "frames": 1273
+      },
+      {
+        "sequence": "video10",
+        "prediction_sha256": "e82f11064d68d14977d9745405bdc1380e7d8f74abf2c4409aa81ef40f9f2d37",
+        "gt_sha256": "5ad7118777eba2c388ffc8c241a868d4919d451c59d2c4d7cbc87c29a94f5270",
+        "frames": 1177
+      },
+      {
+        "sequence": "video11",
+        "prediction_sha256": "69f422192a5c46e0fbe7aed34f69e2e3aa33ab365662d0ed49b3d63c6d1f5e24",
+        "gt_sha256": "4a0378d45a2490a701dc92f5c7e545632f09d1f5a575e4436ac4d284a8791c55",
+        "frames": 2687
+      },
+      {
+        "sequence": "video12",
+        "prediction_sha256": "3037c06fc12d40855e4bdcbe655540b6110e8536080453ed40e4d794d8bafae4",
+        "gt_sha256": "673534d07c93f52edf4c748144d0e7aa384d2acfe1e5ce8a4f559f7b6ce1f1f4",
+        "frames": 504
+      },
+      {
+        "sequence": "video13",
+        "prediction_sha256": "389a1ad02e0be88e3d38995f02401e95d07d093b1c0ed2389f335b4680858af3",
+        "gt_sha256": "ae06f2be44e8dd7ac71963e8e15ef0e9a8416ae5fbb25ae3ed180cd4e74d3500",
+        "frames": 570
+      },
+      {
+        "sequence": "video14",
+        "prediction_sha256": "8256e713c7c2ea70706aaff371e0879fcd907072217193ba87222992f73760d2",
+        "gt_sha256": "9f472752df2666548ffb5503c47aaccf48984a349f29bf5dbfdcfe89d98e64a6",
+        "frames": 1383
+      },
+      {
+        "sequence": "video15",
+        "prediction_sha256": "6af82861048f9eee8f54c73713759e6a7988046d264a1d1f43451ff9842a6a7d",
+        "gt_sha256": "a68d9341881ddd07cf3a39b8ba19d54973ae97956096c5c8647e656269a4516c",
+        "frames": 1559
+      },
+      {
+        "sequence": "video16",
+        "prediction_sha256": "4dfa5ec2cad75837a4e85044010905a61af09fca9fd6e103e72b9870479c4ead",
+        "gt_sha256": "fd878a9c111f48870fa0ee603341e9cbf84f26b3e1cd6b41053701968cdc1818",
+        "frames": 1158
+      },
+      {
+        "sequence": "video17",
+        "prediction_sha256": "bee9764214403a7acc3ae010ac642548f89d477f68d857266b69687af3a20918",
+        "gt_sha256": "9dba239e64c647464c68a3c90cb577d77f47fa54c66f03637a32d3dd43e004ca",
+        "frames": 1819
+      },
+      {
+        "sequence": "video18",
+        "prediction_sha256": "572dc7c75bfc750dc6a041970439d17804b64ae7fddead8a7c429b9c01edf7c3",
+        "gt_sha256": "da9553c54b255d3cd995a220c0f5e77e0937a5d018176d18e11f09c30a3b8e59",
+        "frames": 1681
+      },
+      {
+        "sequence": "video19",
+        "prediction_sha256": "4aef17290b4ec1d4a51671cec676082de84e03c07cb88e86e7f31160f8c4c3cb",
+        "gt_sha256": "4c68a654ce79a5669b7fd8509a086bf088e0fc1bb2653204711444291898046b",
+        "frames": 1623
+      },
+      {
+        "sequence": "video20",
+        "prediction_sha256": "320a10a0ac6f3ba9ff06680a2ef46d75209d89805d758f147e25d0324a54e5d9",
+        "gt_sha256": "8b5aaa848b47c4346ea79c4a3e2de27e53b49308265c61da8914c9f48ecec26d",
+        "frames": 4384
+      },
+      {
+        "sequence": "video21",
+        "prediction_sha256": "5306c4ee91f45579d60988e1a5f18045a458a0ac4f6a828b56130f361d064afe",
+        "gt_sha256": "bf23db6f2efeb652428a9f05bf6ecd40a375c0fe5338f67073cd302f97b83b35",
+        "frames": 834
+      },
+      {
+        "sequence": "video22",
+        "prediction_sha256": "f75c164a44601aa99a13d8037e4b9644a39580d935fa1da31a2c4934392e6d9b",
+        "gt_sha256": "995626c16f213262b7055b7082d0cb2968011d2c1415f20daf29a28a29fea758",
+        "frames": 1285
+      },
+      {
+        "sequence": "video23",
+        "prediction_sha256": "3d7c2cb0342c2f83ea06303a47e5f9942c8544ec9fd71a60ec3664f3acce522d",
+        "gt_sha256": "2f1c0df3d4d8832870ef055179be33b7bb81dd1bc38bc86f8d4ec7fc63ef6b6c",
+        "frames": 1109
+      }
+    ]
+  },
+  {
+    "dataset": "A2A",
+    "method": "UETrack-B",
+    "source_prediction_collection": "uetrack_base_a2a_all23",
+    "sequences": [
+      {
+        "sequence": "video01",
+        "prediction_sha256": "c0378253ed41f87dd2fc1522909c8c542e9a034bdadad38170d8f0400e191c46",
+        "gt_sha256": "9648e86fcf0653117a621ce506a893a38ad63bad78192f53a3136133391c1159",
+        "frames": 2635
+      },
+      {
+        "sequence": "video02",
+        "prediction_sha256": "85738c5030232c14f6fdcc2391283ca1631d63246f8d4d34697e84e52ef284e5",
+        "gt_sha256": "0616e4101850a4d4549b476fe290faf2e612ee66c347e2bddca95087936cc4e7",
+        "frames": 1935
+      },
+      {
+        "sequence": "video03",
+        "prediction_sha256": "421c72e88596c1eb95431dad5a620736ee2e0578d7a598dc111e5abdbd18bb35",
+        "gt_sha256": "117179c356e0325cd8b9c3159c2cf28965c7da00a238926fb0b346fb8f930557",
+        "frames": 503
+      },
+      {
+        "sequence": "video04",
+        "prediction_sha256": "ef8e82f70cfee87f69c58660261b23bfe187834030863aef11c0c3464f504df0",
+        "gt_sha256": "6018a4f0fcdcc7b8dc9771b4eea7aab24e544bf99e72a81cfecfc860282e1f4e",
+        "frames": 398
+      },
+      {
+        "sequence": "video05",
+        "prediction_sha256": "d5c54ec245bc633856fbc630e592da5ea4fefd1a6601920db3c22f8fa1630837",
+        "gt_sha256": "a5699a8237ccd0b38957ae52828fe8d55077e63fd8fa44267a870d0b4061c391",
+        "frames": 2457
+      },
+      {
+        "sequence": "video06",
+        "prediction_sha256": "2d340b110592b3231fa58dd0a17f0b03a337749706b2708f4045e2f8cbf37950",
+        "gt_sha256": "72b76fff9aa37d38408f279bac57aec70daec7e239f57a93cf22845eceec0242",
+        "frames": 422
+      },
+      {
+        "sequence": "video07",
+        "prediction_sha256": "7ce493bacb15a237089776dfd6f428f6eb181f980f9b9393d4ff86858c25ed91",
+        "gt_sha256": "2fca63ed664dcf2e550e9a8ac0c1479399ad09afc24a2001a7d895f582bc73c9",
+        "frames": 1611
+      },
+      {
+        "sequence": "video08",
+        "prediction_sha256": "58e1aaeb759974729d6042a353ecb24cca52582876f7bb6eeab846aa60f9a511",
+        "gt_sha256": "1aceccddbb43f267696ec6efc0f87452eed4615b5d96a0bb212a54363ed10d7e",
+        "frames": 2249
+      },
+      {
+        "sequence": "video09",
+        "prediction_sha256": "cff9c3dbc1dc51485d0045b88174d09a1dd959355bb0127020c8309152223d2c",
+        "gt_sha256": "9e58ef6252118ecbe1deaf010008d5536396c768e502e9ea9c37f2784d2a56d6",
+        "frames": 1273
+      },
+      {
+        "sequence": "video10",
+        "prediction_sha256": "606664bb5310189f0978f3c081d97ea381c7eec05a496f151e1d997933461ede",
+        "gt_sha256": "5ad7118777eba2c388ffc8c241a868d4919d451c59d2c4d7cbc87c29a94f5270",
+        "frames": 1177
+      },
+      {
+        "sequence": "video11",
+        "prediction_sha256": "3594a0db2546bafac96ec7a44825b2eac2949c89c8c6b64d36bd6987ea102ab3",
+        "gt_sha256": "4a0378d45a2490a701dc92f5c7e545632f09d1f5a575e4436ac4d284a8791c55",
+        "frames": 2687
+      },
+      {
+        "sequence": "video12",
+        "prediction_sha256": "eca01798e5f8f2d6db0a50ff2bf319e6e39fdd6e46bc8d3802d5a78169a8bc8d",
+        "gt_sha256": "673534d07c93f52edf4c748144d0e7aa384d2acfe1e5ce8a4f559f7b6ce1f1f4",
+        "frames": 504
+      },
+      {
+        "sequence": "video13",
+        "prediction_sha256": "1a2fdeed17bd696a38559d43dc6171407e2d355008952d1efd3b06b18703b759",
+        "gt_sha256": "ae06f2be44e8dd7ac71963e8e15ef0e9a8416ae5fbb25ae3ed180cd4e74d3500",
+        "frames": 570
+      },
+      {
+        "sequence": "video14",
+        "prediction_sha256": "1c3afadf56d8e16045ea04b7b9f6571bae82a2621920da7f95cc3115e91f4de3",
+        "gt_sha256": "9f472752df2666548ffb5503c47aaccf48984a349f29bf5dbfdcfe89d98e64a6",
+        "frames": 1383
+      },
+      {
+        "sequence": "video15",
+        "prediction_sha256": "676dacc56600b15701e1abb052d08e4ee269e42cd1a70e852ff07ee7e15aae52",
+        "gt_sha256": "a68d9341881ddd07cf3a39b8ba19d54973ae97956096c5c8647e656269a4516c",
+        "frames": 1559
+      },
+      {
+        "sequence": "video16",
+        "prediction_sha256": "205118298c95e7fedb6073b831985d535e84289ce719fb02be972e82c9abdd5d",
+        "gt_sha256": "fd878a9c111f48870fa0ee603341e9cbf84f26b3e1cd6b41053701968cdc1818",
+        "frames": 1158
+      },
+      {
+        "sequence": "video17",
+        "prediction_sha256": "55fb3bc5b3d9f296a010ce39d38fccb7738ccac1a7c328c9c15ac1fa605d8634",
+        "gt_sha256": "9dba239e64c647464c68a3c90cb577d77f47fa54c66f03637a32d3dd43e004ca",
+        "frames": 1819
+      },
+      {
+        "sequence": "video18",
+        "prediction_sha256": "6750552b4e0bcfa3fe5c86f7a89d00c212564771628c590a3dea6b684247402d",
+        "gt_sha256": "da9553c54b255d3cd995a220c0f5e77e0937a5d018176d18e11f09c30a3b8e59",
+        "frames": 1681
+      },
+      {
+        "sequence": "video19",
+        "prediction_sha256": "0dcddb7a2fc60c4bbd3ed4d9aa7f13c3cb569bd39dffdef3e8caa411c7861bdc",
+        "gt_sha256": "4c68a654ce79a5669b7fd8509a086bf088e0fc1bb2653204711444291898046b",
+        "frames": 1623
+      },
+      {
+        "sequence": "video20",
+        "prediction_sha256": "d248bc6d125887b2fa6f598505b91215a887181d8bb59bc514ea675594fbc806",
+        "gt_sha256": "8b5aaa848b47c4346ea79c4a3e2de27e53b49308265c61da8914c9f48ecec26d",
+        "frames": 4384
+      },
+      {
+        "sequence": "video21",
+        "prediction_sha256": "0d55fc12a3f3215afcea462b4c7de43f3a62c5da3cfd6f29f18afa815a4e347e",
+        "gt_sha256": "bf23db6f2efeb652428a9f05bf6ecd40a375c0fe5338f67073cd302f97b83b35",
+        "frames": 834
+      },
+      {
+        "sequence": "video22",
+        "prediction_sha256": "d07942610e5103fe7f914f441085c4ff8d9c4abaf17357ccb75b7f5fc9b32594",
+        "gt_sha256": "995626c16f213262b7055b7082d0cb2968011d2c1415f20daf29a28a29fea758",
+        "frames": 1285
+      },
+      {
+        "sequence": "video23",
+        "prediction_sha256": "67e860c184c3fea736bc80d51e284d25924e208a6d8632f9a701ad80fc074e5c",
+        "gt_sha256": "2f1c0df3d4d8832870ef055179be33b7bb81dd1bc38bc86f8d4ec7fc63ef6b6c",
+        "frames": 1109
+      }
+    ]
+  }
+]
